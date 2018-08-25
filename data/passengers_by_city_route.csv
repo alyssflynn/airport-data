@@ -1,0 +1,101 @@
+,ORIGIN_CITY_NAME,DEST_CITY_NAME,PASSENGERS
+0,New York,Chicago,29216452
+1,Chicago,New York,29096530
+2,Los Angeles,Chicago,27093009
+3,Chicago,Los Angeles,26517084
+4,Atlanta,New York,24311712
+5,New York,Atlanta,24309264
+6,Atlanta,Orlando,24103678
+7,Los Angeles,San Francisco,24043776
+8,Los Angeles,New York,23979248
+9,Orlando,Atlanta,23889740
+10,San Francisco,Los Angeles,23858748
+11,New York,Los Angeles,23766574
+12,New York,Fort Lauderdale,23449754
+13,Fort Lauderdale,New York,23443820
+14,Washington,Atlanta,22651290
+15,Atlanta,Washington,22468208
+16,Chicago,Denver,22156841
+17,Chicago,Minneapolis,22060950
+18,Denver,Chicago,21993620
+19,Las Vegas,Los Angeles,21801083
+20,Minneapolis,Chicago,21797759
+21,Washington,Chicago,21765970
+22,Atlanta,Chicago,21713787
+23,Chicago,Atlanta,21645844
+24,Los Angeles,Las Vegas,21450051
+25,Chicago,Washington,21432679
+26,Kahului,Honolulu,20690900
+27,Honolulu,Kahului,20324071
+28,San Francisco,Chicago,20243041
+29,New York,Orlando,20053657
+30,Atlanta,Fort Lauderdale,19938835
+31,Fort Lauderdale,Atlanta,19892599
+32,Orlando,New York,19848245
+33,Chicago,San Francisco,19750622
+34,Las Vegas,Chicago,19579197
+35,Honolulu,Los Angeles,19567614
+36,Chicago,Las Vegas,19540372
+37,Los Angeles,Honolulu,19462206
+38,Miami,New York,18827449
+39,New York,Miami,18787718
+40,Atlanta,Dallas/Fort Worth,18737691
+41,Dallas/Fort Worth,Atlanta,18383989
+42,Chicago,Dallas/Fort Worth,18301708
+43,Dallas/Fort Worth,Chicago,18169519
+44,Tampa,Atlanta,18144079
+45,Atlanta,Tampa,17968313
+46,Chicago,Phoenix,17728226
+47,Boston,New York,17692097
+48,New York,Boston,17655311
+49,Phoenix,Chicago,17558493
+50,Dallas/Fort Worth,Los Angeles,17219746
+51,Los Angeles,Dallas/Fort Worth,16973594
+52,Chicago,Boston,16763083
+53,Denver,Los Angeles,16759651
+54,Boston,Chicago,16653798
+55,Chicago,Orlando,16432106
+56,Los Angeles,Denver,16409855
+57,Orlando,Chicago,16265363
+58,New York,Washington,16249395
+59,Washington,New York,16161884
+60,Phoenix,Denver,16046168
+61,Denver,Phoenix,16000406
+62,San Francisco,New York,16000272
+63,Los Angeles,Atlanta,15825500
+64,Detroit,Chicago,15774881
+65,Philadelphia,Chicago,15770003
+66,New York,San Francisco,15739384
+67,Boston,Washington,15669499
+68,Atlanta,Los Angeles,15600631
+69,Chicago,Philadelphia,15597709
+70,Chicago,Detroit,15558233
+71,Washington,Boston,15504187
+72,Las Vegas,Phoenix,15239494
+73,Seattle,Los Angeles,15099305
+74,Los Angeles,Seattle,15061568
+75,Phoenix,Las Vegas,15038357
+76,Phoenix,Los Angeles,14986477
+77,Newark,Chicago,14950413
+78,Atlanta,Houston,14811146
+79,Lihue,Honolulu,14751508
+80,Dallas/Fort Worth,Denver,14725939
+81,Los Angeles,Phoenix,14704227
+82,Chicago,Newark,14704118
+83,Honolulu,Lihue,14665449
+84,Denver,Las Vegas,14652310
+85,Denver,Dallas/Fort Worth,14589567
+86,Las Vegas,San Francisco,14561523
+87,Houston,Atlanta,14559299
+88,Atlanta,Miami,14517798
+89,Atlanta,Philadelphia,14454129
+90,Miami,Atlanta,14429761
+91,Las Vegas,Denver,14425076
+92,Philadelphia,Atlanta,14360777
+93,San Francisco,Las Vegas,14355105
+94,Chicago,Houston,13979908
+95,Denver,San Francisco,13943790
+96,Chicago,Seattle,13916635
+97,Houston,Chicago,13891375
+98,Seattle,Chicago,13762393
+99,Atlanta,Boston,13559211

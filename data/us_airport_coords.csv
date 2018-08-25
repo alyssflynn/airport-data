@@ -1,0 +1,1436 @@
+,iata,name,city,country,latitude,longitude,altitude_ft
+3411,BTI,Barter Island LRRS Airport,Barter Island,United States,70.13400268550001,-143.582000732,2
+3413,LUR,Cape Lisburne LRRS Airport,Cape Lisburne,United States,68.87509918,-166.1100006,16
+3414,PIZ,Point Lay LRRS Airport,Point Lay,United States,69.73290253,-163.00500490000002,22
+3415,ITO,Hilo International Airport,Hilo,United States,19.721399307250977,-155.04800415039062,38
+3416,ORL,Orlando Executive Airport,Orlando,United States,28.545499801635998,-81.332901000977,113
+3417,BTT,Bettles Airport,Bettles,United States,66.91390228,-151.529007,647
+3418,Z84,Clear Airport,Clear Mews,United States,64.301201,-149.119995,552
+3419,UTO,Indian Mountain LRRS Airport,Indian Mountains,United States,65.99279785,-153.7039948,1273
+3420,FYU,Fort Yukon Airport,Fort Yukon,United States,66.57150268554689,-145.25,433
+3421,SVW,Sparrevohn LRRS Airport,Sparrevohn,United States,61.09740067,-155.5740051,1585
+3422,FRN,Bryant Army Heliport,Fort Richardson,United States,61.26639938,-149.6529999,378
+3423,TLJ,Tatalina LRRS Airport,Tatalina,United States,62.894401550299996,-155.977005005,964
+3424,CZF,Cape Romanzof LRRS Airport,Cape Romanzof,United States,61.78030014,-166.03900149999998,464
+3425,BED,Laurence G Hanscom Field,Bedford,United States,42.47000122,-71.28900146,133
+3426,SNP,St Paul Island Airport,St. Paul Island,United States,57.16730117797852,-170.22000122070312,63
+3427,EHM,Cape Newenham LRRS Airport,Cape Newenham,United States,58.6464004517,-162.06300354,541
+3428,STG,St George Airport,Point Barrow,United States,56.5783004761,-169.662002563,125
+3429,ILI,Iliamna Airport,Iliamna,United States,59.75439835,-154.9109955,192
+3430,PTU,Platinum Airport,Port Moller,United States,59.01139831542969,-161.82000732421875,15
+3431,BMX,Big Mountain Airport,Big Mountain,United States,59.361198425299996,-155.259002686,663
+3432,OSC,Oscoda Wurtsmith Airport,Oscoda,United States,44.45159912,-83.39409637,633
+3433,OAR,Marina Municipal Airport,Fort Ord,United States,36.68190002,-121.762001,137
+3434,MHR,Sacramento Mather Airport,Sacramento,United States,38.55390167,-121.29799650000001,98
+3435,BYS,Bicycle Lake Army Air Field,Fort Irwin,United States,35.2804985046,-116.629997253,2350
+3436,NXP,Twentynine Palms (Self) Airport,Twenty Nine Palms,United States,34.2961998,-116.16200259999998,2051
+3437,FSM,Fort Smith Regional Airport,Fort Smith,United States,35.33660125732422,-94.36740112304688,469
+3438,MRI,Merrill Field,Anchorage,United States,61.2135009765625,-149.843994140625,137
+3439,GNT,Grants-Milan Municipal Airport,Grants,United States,35.167301178,-107.902000427,6537
+3440,PNC,Ponca City Regional Airport,Ponca City,United States,36.73199844,-97.09980011,1008
+3441,SVN,Hunter Army Air Field,Hunter Aaf,United States,32.00999832,-81.14569855,41
+3442,GFK,Grand Forks International Airport,Grand Forks,United States,47.949298999999996,-97.176102,845
+3443,PBF,Grider Field,Pine Bluff,United States,34.173099517800004,-91.9356002808,206
+3444,NSE,Whiting Field Naval Air Station - North,Milton,United States,30.724199300000002,-87.02189636,199
+3445,HNM,Hana Airport,Hana,United States,20.79560089111328,-156.01400756835938,78
+3446,PRC,Ernest A. Love Field,Prescott,United States,34.65449905,-112.41999820000001,5045
+3447,TTN,Trenton Mercer Airport,Trenton,United States,40.27669906616211,-74.8134994506836,213
+3448,BOS,General Edward Lawrence Logan International Airport,Boston,United States,42.36429977,-71.00520325,20
+3449,SUU,Travis Air Force Base,Fairfield,United States,38.262699127196996,-121.92700195312,62
+3450,RME,Griffiss International Airport,Rome,United States,43.23379898,-75.40699768,504
+3451,ENV,Wendover Airport,Wendover,United States,40.7187004089,-114.03099823,4237
+3452,BFM,Mobile Downtown Airport,Mobile,United States,30.626800537100006,-88.06809997559998,26
+3453,OAK,Metropolitan Oakland International Airport,Oakland,United States,37.72129821777344,-122.22100067138672,9
+3454,OMA,Eppley Airfield,Omaha,United States,41.303199768066406,-95.89409637451172,984
+3455,NOW,Port Angeles Cgas Airport,Port Angeles,United States,48.14149856567383,-123.41400146484376,13
+3456,OGG,Kahului Airport,Kahului,United States,20.89859962463379,-156.42999267578125,54
+3457,ICT,Wichita Mid Continent Airport,Wichita,United States,37.649898529052734,-97.43309783935548,1333
+3458,MCI,Kansas City International Airport,Kansas City,United States,39.2976,-94.713898,1026
+3459,MSN,Dane County Regional Truax Field,Madison,United States,43.13990020751953,-89.3375015258789,887
+3460,DLG,Dillingham Airport,Dillingham,United States,59.04470062,-158.50500490000002,81
+3461,HRO,Boone County Airport,Harrison,United States,36.26150131225586,-93.15470123291016,1365
+3462,PHX,Phoenix Sky Harbor International Airport,Phoenix,United States,33.43429946899414,-112.01200103759766,1135
+3463,BGR,Bangor International Airport,Bangor,United States,44.80739974975586,-68.82810211181639,192
+3464,FXE,Fort Lauderdale Executive Airport,Fort Lauderdale,United States,26.1972999573,-80.1707000732,13
+3465,GGG,East Texas Regional Airport,Longview,United States,32.38399887084961,-94.71150207519531,365
+3466,AND,Anderson Regional Airport,Andersen,United States,34.4945983887,-82.70939636230001,782
+3467,GEG,Spokane International Airport,Spokane,United States,47.61989974975586,-117.53399658203124,2376
+3468,HWO,North Perry Airport,Hollywood,United States,26.0011997223,-80.24069976810001,8
+3469,SFO,San Francisco International Airport,San Francisco,United States,37.61899948120117,-122.375,13
+3470,CTB,Cut Bank International Airport,Cutbank,United States,48.6083984375,-112.375999451,3854
+3471,ARA,Acadiana Regional Airport,Louisiana,United States,30.0378,-91.883904,24
+3472,GNV,Gainesville Regional Airport,Gainesville,United States,29.6900997162,-82.27179718020001,152
+3473,MEM,Memphis International Airport,Memphis,United States,35.04240036010742,-89.97669982910156,341
+3474,DUG,Bisbee Douglas International Airport,Douglas,United States,31.4689998627,-109.60399627700001,4154
+3475,BIG,Allen Army Airfield,Delta Junction,United States,63.994499206499995,-145.722000122,1291
+3476,CNW,TSTC Waco Airport,Waco,United States,31.6378002167,-97.07409667969999,470
+3477,ANN,Annette Island Airport,Annette Island,United States,55.04240036010742,-131.57200622558594,119
+3478,CAR,Caribou Municipal Airport,Caribou,United States,46.8714981079,-68.0178985596,626
+3479,LRF,Little Rock Air Force Base,Jacksonville,United States,34.916900634799994,-92.14969635010002,311
+3480,HUA,Redstone Army Air Field,Redstone,United States,34.67869949,-86.68479919,684
+3481,POB,Pope Field,Fort Bragg,United States,35.1708984375,-79.014503479004,217
+3482,DHT,Dalhart Municipal Airport,Dalhart,United States,36.0225982666,-102.54699707,3991
+3483,DLF,Laughlin Air Force Base,Del Rio,United States,29.359500885,-100.77799987799999,1082
+3484,LAX,Los Angeles International Airport,Los Angeles,United States,33.94250107,-118.40799709999999,125
+3485,ANB,Anniston Metropolitan Airport,Anniston,United States,33.58819962,-85.85810089,612
+3486,CLE,Cleveland Hopkins International Airport,Cleveland,United States,41.411701202399996,-81.8498001099,791
+3487,DOV,Dover Air Force Base,Dover,United States,39.12950134,-75.46600342,24
+3488,CVG,Cincinnati Northern Kentucky International Airport,Cincinnati,United States,39.0488014221,-84.6678009033,896
+3489,FME,Tipton Airport,Fort Meade,United States,39.08539962769999,-76.7593994141,150
+3490,NID,China Lake Naws (Armitage Field) Airport,China Lake,United States,35.6853981,-117.6920013,2283
+3491,HON,Huron Regional Airport,Huron,United States,44.38520050048828,-98.22850036621094,1289
+3492,JNU,Juneau International Airport,Juneau,United States,58.35499954223633,-134.57600402832028,21
+3493,LFT,Lafayette Regional Airport,Lafayette,United States,30.20529938,-91.98760223,42
+3494,EWR,Newark Liberty International Airport,Newark,United States,40.69250106811523,-74.168701171875,18
+3495,BOI,Boise Air Terminal/Gowen field,Boise,United States,43.56439972,-116.22299960000001,2871
+3496,INS,Creech Air Force Base,Indian Springs,United States,36.5872001648,-115.672996521,3133
+3497,GCK,Garden City Regional Airport,Garden City,United States,37.9275016785,-100.72399902299999,2891
+3498,MOT,Minot International Airport,Minot,United States,48.2593994140625,-101.27999877929688,1716
+3499,HHI,Wheeler Army Airfield,Wahiawa,United States,21.48349953,-158.03999330000002,837
+3500,MXF,Maxwell Air Force Base,Montgomery,United States,32.38290023803711,-86.36579895019531,171
+3501,\N,Robinson Army Air Field,Robinson,United States,34.85010147,-92.30020142,587
+3502,DAL,Dallas Love Field,Dallas,United States,32.84709930419922,-96.85179901123048,487
+3503,FCS,Butts AAF (Fort Carson) Air Field,Fort Carson,United States,38.67839813,-104.75700379999999,5838
+3504,HLN,Helena Regional Airport,Helena,United States,46.6068000793457,-111.98300170898438,3877
+3505,NKX,Miramar Marine Corps Air Station - Mitscher Field,Miramar,United States,32.86840057,-117.1429977,477
+3506,LUF,Luke Air Force Base,Phoenix,United States,33.534999847399995,-112.383003235,1085
+3507,\N,Hurlburt Field,Mary Esther,United States,30.42779922485352,-86.68930053710938,38
+3508,HHR,Jack Northrop Field Hawthorne Municipal Airport,Hawthorne,United States,33.922798,-118.334999,66
+3509,HUL,Houlton International Airport,Houlton,United States,46.123100280799996,-67.79209899899999,489
+3510,END,Vance Air Force Base,Enid,United States,36.339199066199996,-97.9164962769,1307
+3511,NTD,Point Mugu Naval Air Station (Naval Base Ventura Co),Point Mugu,United States,34.120300293,-119.12100219700001,13
+3512,EDW,Edwards Air Force Base,Edwards Afb,United States,34.905398999999996,-117.884003,2312
+3513,LCH,Lake Charles Regional Airport,Lake Charles,United States,30.12610054016113,-93.22329711914062,15
+3514,KOA,Kona International At Keahole Airport,Kona,United States,19.738800048828125,-156.04600524902344,47
+3515,MYR,Myrtle Beach International Airport,Myrtle Beach,United States,33.6796989441,-78.9282989502,25
+3516,NLC,Lemoore Naval Air Station (Reeves Field) Airport,Lemoore,United States,36.33300018,-119.95200349999999,232
+3517,ACK,Nantucket Memorial Airport,Nantucket,United States,41.25310135,-70.06020355,47
+3518,FAF,Felker Army Air Field,Fort Eustis,United States,37.1324996948,-76.60880279540002,12
+3519,HOP,Campbell AAF (Fort Campbell) Air Field,Hopkinsville,United States,36.668598175,-87.49620056150002,573
+3520,DCA,Ronald Reagan Washington National Airport,Washington,United States,38.8521,-77.037697,15
+3521,NHK,Patuxent River Naval Air Station/Trapnell Field Aiport,Patuxent River,United States,38.28599929999999,-76.41179657,39
+3522,PSX,Palacios Municipal Airport,Palacios,United States,28.727500915527,-96.25099945068399,14
+3523,BYH,Arkansas International Airport,Blytheville,United States,35.9642982483,-89.94400024410002,254
+3524,ACY,Atlantic City International Airport,Atlantic City,United States,39.45759963989258,-74.57720184326172,75
+3525,TIK,Tinker Air Force Base,Oklahoma City,United States,35.414699554443004,-97.386596679688,1291
+3527,PUB,Pueblo Memorial Airport,Pueblo,United States,38.289100646972656,-104.49700164794922,4726
+3528,PQI,Northern Maine Regional Airport at Presque Isle,Presque Isle,United States,46.68899918,-68.0447998,534
+3530,GRF,Gray Army Air Field,Fort Lewis,United States,47.07920074,-122.5810013,300
+3531,ADQ,Kodiak Airport,Kodiak,United States,57.75,-152.4940033,78
+3532,UPP,Upolu Airport,Opolu,United States,20.265300750732425,-155.86000061035156,96
+3533,FLL,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,26.072599411010746,-80.15270233154297,9
+3534,MKO,Davis Field,Muskogee,United States,35.65650177,-95.36669922,611
+3535,INL,Falls International Airport,International Falls,United States,48.566200256347656,-93.4030990600586,1185
+3536,SLC,Salt Lake City International Airport,Salt Lake City,United States,40.78839874267578,-111.97799682617188,4227
+3537,CDS,Childress Municipal Airport,Childress,United States,34.4337997437,-100.288002014,1954
+3538,BIX,Keesler Air Force Base,Biloxi,United States,30.4104003906,-88.92440032959999,33
+3539,LSF,Lawson Army Air Field (Fort Benning),Fort Benning,United States,32.337299346900004,-84.9913024902,232
+3541,FRI,Marshall Army Air Field,Fort Riley,United States,39.05530167,-96.76450348,1065
+3542,MDT,Harrisburg International Airport,Harrisburg,United States,40.1935005188,-76.7633972168,310
+3543,LNK,Lincoln Airport,Lincoln,United States,40.85100173950195,-96.75920104980469,1219
+3544,LAN,Capital City Airport,Lansing,United States,42.77870178222656,-84.58740234375,861
+3545,MUE,Waimea Kohala Airport,Kamuela,United States,20.001300811767575,-155.66799926757812,2671
+3546,MSS,Massena International Richards Field,Massena,United States,44.93579864501953,-74.84559631347656,215
+3547,HKY,Hickory Regional Airport,Hickory,United States,35.74110031,-81.38950348,1190
+3548,SPG,Albert Whitted Airport,St. Petersburg,United States,27.765100479125977,-82.62699890136719,7
+3549,FMY,Page Field,Fort Myers,United States,26.58659935,-81.86329650879998,17
+3550,IAH,George Bush Intercontinental Houston Airport,Houston,United States,29.98439979553223,-95.34140014648438,97
+3551,MLT,Millinocket Municipal Airport,Millinocket,United States,45.64780044555664,-68.68560028076172,408
+3552,ADW,Andrews Air Force Base,Camp Springs,United States,38.810798645,-76.86699676510001,280
+3553,INT,Smith Reynolds Airport,Winston-salem,United States,36.13370132446289,-80.22200012207031,969
+3554,VCV,Southern California Logistics Airport,Victorville,United States,34.597499847399995,-117.383003235,2885
+3555,CEW,Bob Sikes Airport,Crestview,United States,30.778799056999997,-86.522102356,213
+3556,GTB,Wheeler Sack Army Air Field,Fort Drum,United States,44.05559921,-75.71949768,688
+3557,PHN,St Clair County International Airport,Port Huron,United States,42.91099929999999,-82.52890015,650
+3558,BFL,Meadows Field,Bakersfield,United States,35.43360138,-119.0569992,510
+3559,ELP,El Paso International Airport,El Paso,United States,31.80719948,-106.37799840000002,3959
+3560,HRL,Valley International Airport,Harlingen,United States,26.228500366210934,-97.65440368652344,36
+3561,CAE,Columbia Metropolitan Airport,Columbia,United States,33.93880081176758,-81.11949920654297,236
+3562,DMA,Davis Monthan Air Force Base,Tucson,United States,32.1665000916,-110.883003235,2704
+3563,NPA,Pensacola Naval Air Station/Forrest Sherman Field,Pensacola,United States,30.35269928,-87.31860352,28
+3564,PNS,Pensacola Regional Airport,Pensacola,United States,30.473400115967003,-87.18659973144501,121
+3565,RDR,Grand Forks Air Force Base,Red River,United States,47.961101532,-97.4011993408,913
+3566,HOU,William P Hobby Airport,Houston,United States,29.64539909,-95.27890015,46
+3567,BKF,Buckley Air Force Base,Buckley,United States,39.701698303200004,-104.75199890100001,5662
+3568,ORT,Northway Airport,Northway,United States,62.96129989999999,-141.9290009,1715
+3569,PAQ,Palmer Municipal Airport,Palmer,United States,61.59489822387695,-149.08900451660156,242
+3570,PIT,Pittsburgh International Airport,Pittsburgh,United States,40.49150085,-80.23290253,1203
+3571,BRW,Wiley Post Will Rogers Memorial Airport,Barrow,United States,71.285402,-156.766008,44
+3572,EFD,Ellington Airport,Houston,United States,29.6072998047,-95.15879821780001,32
+3573,NUW,Whidbey Island Naval Air Station /Ault Field/ Airport,Whidbey Island,United States,48.35179901,-122.65599820000001,47
+3574,ALI,Alice International Airport,Alice,United States,27.740900039699998,-98.02690124510002,178
+3575,VAD,Moody Air Force Base,Valdosta,United States,30.967800140399998,-83.1930007935,233
+3576,MIA,Miami International Airport,Miami,United States,25.79319953918457,-80.29060363769531,8
+3577,SEA,Seattle Tacoma International Airport,Seattle,United States,47.44900131225586,-122.30899810791016,433
+3578,CHA,Lovell Field,Chattanooga,United States,35.03530120849609,-85.20379638671875,683
+3579,BDR,Igor I Sikorsky Memorial Airport,Stratford,United States,41.16350173950195,-73.1261978149414,9
+3580,JAN,Jackson-Medgar Wiley Evers International Airport,Jackson,United States,32.3111991882,-90.0758972168,346
+3581,GLS,Scholes International At Galveston Airport,Galveston,United States,29.265300750732425,-94.8603973388672,6
+3582,LGB,Long Beach /Daugherty Field/ Airport,Long Beach,United States,33.81769943,-118.15200039999999,60
+3583,HDH,Dillingham Airfield,Dillingham,United States,21.5795001984,-158.197006226,14
+3584,IPT,Williamsport Regional Airport,Williamsport,United States,41.241798400878906,-76.92109680175781,529
+3585,IND,Indianapolis International Airport,Indianapolis,United States,39.7173,-86.294403,797
+3586,SZL,Whiteman Air Force Base,Knobnoster,United States,38.73030090332,-93.547897338867,870
+3587,AKC,Akron Fulton International Airport,Akron,United States,41.0374984741,-81.46690368649999,1067
+3588,GWO,Greenwood–Leflore Airport,Greenwood,United States,33.4943008423,-90.08470153809999,162
+3589,HPN,Westchester County Airport,White Plains,United States,41.06700134277344,-73.70760345458984,439
+3590,FOK,Francis S Gabreski Airport,West Hampton Beach,United States,40.8437004089,-72.6317977905,67
+3591,JBR,Jonesboro Municipal Airport,Jonesboro,United States,35.83169937133789,-90.64640045166016,262
+3592,\N,Tonopah Test Range Airport,Tonopah,United States,37.7988014221,-116.78099823,5549
+3593,LNA,Palm Beach County Park Airport,West Palm Beach,United States,26.59300041,-80.08509827,14
+3594,NZY,North Island Naval Air Station-Halsey Field,San Diego,United States,32.69919968,-117.2149963,26
+3595,BIF,Biggs Army Air Field (Fort Bliss),El Paso,United States,31.84950066,-106.3799973,3946
+3596,YUM,Yuma MCAS/Yuma International Airport,Yuma,United States,32.65660095,-114.6060028,213
+3597,CNM,Cavern City Air Terminal,Carlsbad,United States,32.337501525878906,-104.26300048828124,3295
+3598,DLH,Duluth International Airport,Duluth,United States,46.8420982361,-92.19360351559999,1428
+3599,BET,Bethel Airport,Bethel,United States,60.77980042,-161.8379974,126
+3600,LOU,Bowman Field,Louisville,United States,38.2280006409,-85.6636962891,546
+3601,FHU,Sierra Vista Municipal Libby Army Air Field,Fort Huachuca,United States,31.58849906921387,-110.34400177001952,4719
+3602,LIH,Lihue Airport,Lihue,United States,21.97599983215332,-159.33900451660156,153
+3603,HUF,Terre Haute International Hulman Field,Terre Haute,United States,39.45149993896485,-87.30760192871094,589
+3604,HVR,Havre City County Airport,Havre,United States,48.54299927,-109.762001,2591
+3605,MWH,Grant County International Airport,Grant County Airport,United States,47.20769882,-119.3199997,1189
+3606,MPV,Edward F Knapp State Airport,Montpelier,United States,44.20349884,-72.56230164,1166
+3607,\N,San Nicolas Island Nolf Airport,San Nicolas Island,United States,33.23979949951172,-119.45800018310548,506
+3608,RIC,Richmond International Airport,Richmond,United States,37.50519943237305,-77.3197021484375,167
+3609,SHV,Shreveport Regional Airport,Shreveport,United States,32.44660186767578,-93.82559967041016,258
+3610,CDV,Merle K (Mudhole) Smith Airport,Cordova,United States,60.49179839999999,-145.4779968,54
+3611,ORF,Norfolk International Airport,Norfolk,United States,36.89459991455078,-76.20120239257812,26
+3612,BPT,Southeast Texas Regional Airport,Beaumont,United States,29.9507999420166,-94.02069854736328,15
+3613,SAV,Savannah Hilton Head International Airport,Savannah,United States,32.12760162,-81.20210266,50
+3614,HIF,Hill Air Force Base,Ogden,United States,41.12403,-111.97308600000001,4789
+3615,OME,Nome Airport,Nome,United States,64.51219940185547,-165.44500732421875,37
+3616,\N,Scappoose Industrial Airpark,San Luis,United States,45.77099990844727,-122.86199951171876,58
+3617,PIE,St Petersburg Clearwater International Airport,St. Petersburg,United States,27.91020012,-82.68740082,11
+3618,MNM,Menominee Marinette Twin County Airport,Macon,United States,45.12670135498047,-87.63839721679688,625
+3619,CXO,Lone Star Executive Airport,Conroe,United States,30.351800918600002,-95.41449737549999,245
+3620,SCC,Deadhorse Airport,Deadhorse,United States,70.19470215,-148.46499630000002,65
+3621,SAT,San Antonio International Airport,San Antonio,United States,29.533700942993164,-98.46980285644531,809
+3622,ROC,Greater Rochester International Airport,Rochester,United States,43.118900299072266,-77.67240142822266,559
+3623,COF,Patrick Air Force Base,Coco Beach,United States,28.2348995209,-80.6100997925,8
+3624,TEB,Teterboro Airport,Teterboro,United States,40.85010147089999,-74.060798645,9
+3625,RCA,Ellsworth Air Force Base,Rapid City,United States,44.14500046,-103.1039963,3276
+3626,RDU,Raleigh Durham International Airport,Raleigh-durham,United States,35.877601623535156,-78.7874984741211,435
+3627,DAY,James M Cox Dayton International Airport,Dayton,United States,39.90240097045898,-84.21939849853516,1009
+3628,ENA,Kenai Municipal Airport,Kenai,United States,60.57310104370117,-151.2449951171875,99
+3629,MLC,Mc Alester Regional Airport,Mcalester,United States,34.88240051,-95.78350067,770
+3630,IAG,Niagara Falls International Airport,Niagara Falls,United States,43.1072998046875,-78.94619750976562,589
+3631,CFD,Coulter Field,Bryan,United States,30.715700149499998,-96.3313980103,367
+3632,\N,Wright Aaf (Fort Stewart)/Midcoast Regional Airport,Wright,United States,31.88909912,-81.56230164,45
+3633,PHF,Newport News Williamsburg International Airport,Newport News,United States,37.13190079,-76.49299622,42
+3634,ESF,Esler Regional Airport,Alexandria,United States,31.3948993683,-92.29579925540001,112
+3635,LTS,Altus Air Force Base,Altus,United States,34.667098999000004,-99.26670074459999,1382
+3636,TUS,Tucson International Airport,Tucson,United States,32.116100311279304,-110.94100189208984,2643
+3637,MIB,Minot Air Force Base,Minot,United States,48.41559982,-101.3580017,1667
+3638,BAB,Beale Air Force Base,Marysville,United States,39.136100769,-121.43699646,113
+3639,IKK,Greater Kankakee Airport,Kankakee,United States,41.07139968869999,-87.84629821780001,630
+3640,GSB,Seymour Johnson Air Force Base,Goldsboro,United States,35.33940125,-77.96060181,109
+3641,PVD,Theodore Francis Green State Airport,Providence,United States,41.73260116577149,-71.42040252685547,55
+3642,SBY,Salisbury Ocean City Wicomico Regional Airport,Salisbury,United States,38.34049987792969,-75.51029968261719,52
+3643,RIU,Rancho Murieta Airport,Rancho Murieta,United States,38.48680114746094,-121.10299682617188,141
+3644,BUR,Bob Hope Airport,Burbank,United States,34.200698852539055,-118.35900115966795,778
+3645,DTW,Detroit Metropolitan Wayne County Airport,Detroit,United States,42.212398529052734,-83.35340118408203,645
+3646,TPA,Tampa International Airport,Tampa,United States,27.975500106811523,-82.533203125,26
+3647,PMB,Pembina Municipal Airport,Pembina,United States,48.94250106810001,-97.2407989502,795
+3648,POE,Polk Army Air Field,Fort Polk,United States,31.044799800000003,-93.1917038,330
+3649,EIL,Eielson Air Force Base,Fairbanks,United States,64.66570282,-147.102005,547
+3650,HIB,Range Regional Airport,Hibbing,United States,47.38660049,-92.83899689,1354
+3651,LFK,Angelina County Airport,Lufkin,United States,31.2339992523,-94.75,296
+3652,MAF,Midland International Airport,Midland,United States,31.9424991607666,-102.2020034790039,2871
+3653,GRB,Austin Straubel International Airport,Green Bay,United States,44.48509979248047,-88.12960052490234,695
+3654,ADM,Ardmore Municipal Airport,Ardmore,United States,34.30301,-97.01963420000001,777
+3655,WRI,Mc Guire Air Force Base,Wrightstown,United States,40.01559829999999,-74.59169769,131
+3656,\N,Cherry Point MCAS /Cunningham Field/,Cherry Point,United States,34.90090179,-76.88069916,29
+3657,SBO,Emanuel County Airport,Santa Barbara,United States,32.609100341796875,-82.36990356445312,327
+3658,AGS,Augusta Regional At Bush Field,Bush Field,United States,33.36989974975586,-81.9645004272461,144
+3659,ISN,Sloulin Field International Airport,Williston,United States,48.177898407,-103.64199829100001,1982
+3660,LIT,Bill & Hillary Clinton National Airport/Adams Field,Little Rock,United States,34.729400634799994,-92.22429656979999,262
+3661,SWF,Stewart International Airport,Newburgh,United States,41.50410079956055,-74.10479736328125,491
+3662,BDE,Baudette International Airport,Baudette,United States,48.7284011841,-94.61219787600001,1086
+3663,SAC,Sacramento Executive Airport,Sacramento,United States,38.5125007629,-121.49299621600001,24
+3664,HOM,Homer Airport,Homer,United States,59.64559936523438,-151.4770050048828,84
+3665,TBN,Waynesville-St. Robert Regional Forney field,Fort Leonardwood,United States,37.74160004,-92.14070129,1159
+3666,MGE,Dobbins Air Reserve Base,Marietta,United States,33.91540146,-84.51629639,1068
+3667,SKA,Fairchild Air Force Base,Spokane,United States,47.6151008606,-117.65599823,2461
+3668,HTL,Roscommon County - Blodgett Memorial Airport,Houghton Lake,United States,44.359798,-84.671095,1150
+3669,PAM,Tyndall Air Force Base,Panama City,United States,30.0695991516,-85.57540130619998,17
+3670,DFW,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,32.896800994873054,-97.03800201416016,607
+3671,MLB,Melbourne International Airport,Melbourne,United States,28.10280036926269,-80.64530181884766,33
+3672,TCM,McChord Air Force Base,Tacoma,United States,47.1376991272,-122.475997925,322
+3673,AUS,Austin Bergstrom International Airport,Austin,United States,30.194499969482425,-97.6698989868164,542
+3674,LCK,Rickenbacker International Airport,Columbus,United States,39.813801,-82.927803,744
+3675,MQT,Sawyer International Airport,Gwinn,United States,46.3535995483,-87.39540100100001,1221
+3676,TYS,McGhee Tyson Airport,Knoxville,United States,35.81100082,-83.99400329999999,981
+3677,HLR,Hood Army Air Field,Fort Hood,United States,31.1387004852,-97.7145004272,924
+3678,STL,Lambert St Louis International Airport,St. Louis,United States,38.74869918823242,-90.37000274658205,618
+3679,MIV,Millville Municipal Airport,Millville,United States,39.36780166625977,-75.07219696044922,85
+3680,SPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,Wichita Falls,United States,33.98880005,-98.49189758,1019
+3681,LUK,Cincinnati Municipal Airport Lunken Field,Cincinnati,United States,39.10329819,-84.41860199,483
+3682,ATL,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,33.63669967651367,-84.4281005859375,1026
+3683,MER,Castle Airport,Merced,United States,37.38050079,-120.5680008,191
+3684,MCC,Mc Clellan Airfield,Sacramento,United States,38.66759872,-121.40100100000001,77
+3685,GRR,Gerald R. Ford International Airport,Grand Rapids,United States,42.88079834,-85.52279663,794
+3686,INK,Winkler County Airport,Wink,United States,31.779600143400003,-103.20099639899999,2822
+3687,FAT,Fresno Yosemite International Airport,Fresno,United States,36.77619934082031,-119.71800231933594,336
+3688,VRB,Vero Beach Municipal Airport,Vero Beach,United States,27.655599594116,-80.417900085449,24
+3689,IPL,Imperial County Airport,Imperial,United States,32.834201812699995,-115.57900238,-54
+3690,BNA,Nashville International Airport,Nashville,United States,36.1245002746582,-86.6781997680664,599
+3691,LRD,Laredo International Airport,Laredo,United States,27.543800354003906,-99.46160125732422,508
+3692,EDF,Elmendorf Air Force Base,Anchorage,United States,61.2509994506836,-149.8070068359375,212
+3693,OTZ,Ralph Wien Memorial Airport,Kotzebue,United States,66.88469696,-162.598999,14
+3694,AOO,Altoona Blair County Airport,Altoona,United States,40.29639816,-78.31999969,1503
+3695,DYS,Dyess Air Force Base,Abilene,United States,32.4207992554,-99.85459899899999,1789
+3696,ELD,South Arkansas Regional At Goodwin Field,El Dorado,United States,33.22100067138672,-92.81330108642578,277
+3697,LGA,La Guardia Airport,New York,United States,40.77719879,-73.87259674,21
+3698,TLH,Tallahassee Regional Airport,Tallahassee,United States,30.396499633789066,-84.35030364990234,81
+3699,DPA,Dupage Airport,West Chicago,United States,41.90779877,-88.24859619,759
+3700,ACT,Waco Regional Airport,Waco,United States,31.61129951477051,-97.23049926757812,516
+3701,AUG,Augusta State Airport,Augusta,United States,44.320598602299995,-69.7973022461,352
+3702,INJ,Hillsboro Municipal Airport,Hillsboro,United States,32.08349991,-97.09719849,686
+3704,MKL,Mc Kellar Sipes Regional Airport,Jackson,United States,35.59989929,-88.91560364,434
+3705,MKK,Molokai Airport,Molokai,United States,21.15290069580078,-157.0959930419922,454
+3706,FTK,Godman Army Air Field,Fort Knox,United States,37.9071006775,-85.9720993042,756
+3707,\N,New River MCAS /H/ /Mccutcheon Fld/ Airport,Jacksonville,United States,34.70840073,-77.43969727,26
+3708,SJT,San Angelo Regional Mathis Field,San Angelo,United States,31.35770034790039,-100.49600219726562,1919
+3709,CXL,Calexico International Airport,Calexico,United States,32.6694984436,-115.51300048799999,4
+3710,CIC,Chico Municipal Airport,Chico,United States,39.79539871,-121.8580017,240
+3711,BTV,Burlington International Airport,Burlington,United States,44.471900939899996,-73.15329742429998,335
+3712,JAX,Jacksonville International Airport,Jacksonville,United States,30.49410057067871,-81.68789672851562,30
+3713,DRO,Durango La Plata County Airport,Durango,United States,37.1515007019,-107.75399780299999,6685
+3714,IAD,Washington Dulles International Airport,Washington,United States,38.94449997,-77.45580292,312
+3715,CLL,Easterwood Field,College Station,United States,30.58860016,-96.36380005,320
+3716,SFF,Felts Field,Spokane,United States,47.682800292969,-117.32299804688,1953
+3717,MKE,General Mitchell International Airport,Milwaukee,United States,42.94720077514648,-87.89659881591797,723
+3718,ABI,Abilene Regional Airport,Abilene,United States,32.4113006592,-99.68190002440001,1791
+3719,COU,Columbia Regional Airport,Columbia,United States,38.81809997558594,-92.21959686279295,889
+3720,PDX,Portland International Airport,Portland,United States,45.58869934,-122.59799960000001,31
+3721,TNT,Dade Collier Training and Transition Airport,Miami,United States,25.861799240112,-80.897003173828,13
+3722,PBI,Palm Beach International Airport,West Palm Beach,United States,26.68320083618164,-80.09559631347656,19
+3723,FTW,Fort Worth Meacham International Airport,Fort Worth,United States,32.8198013306,-97.36239624019998,710
+3724,OGS,Ogdensburg International Airport,Ogdensburg,United States,44.681900024399994,-75.46549987790002,297
+3726,BFI,Boeing Field King County International Airport,Seattle,United States,47.52999877929688,-122.302001953125,21
+3727,SKF,Lackland Air Force Base,San Antonio,United States,29.38419914,-98.58110046,691
+3728,HNL,Honolulu International Airport,Honolulu,United States,21.318700790405273,-157.9219970703125,13
+3729,DSM,Des Moines International Airport,Des Moines,United States,41.53400039672852,-93.66310119628906,958
+3730,EWN,Coastal Carolina Regional Airport,New Bern,United States,35.0730018616,-77.04290008539998,18
+3731,SAN,San Diego International Airport,San Diego,United States,32.7336006165,-117.190002441,17
+3732,MLU,Monroe Regional Airport,Monroe,United States,32.51089859008789,-92.0376968383789,79
+3733,SSC,Shaw Air Force Base,Sumter,United States,33.97269821,-80.47059631,241
+3734,ONT,Ontario International Airport,Ontario,United States,34.05599975585937,-117.60099792480469,944
+3735,GVT,Majors Airport,Greenvile,United States,33.0677986145,-96.0652999878,535
+3736,ROW,Roswell International Air Center Airport,Roswell,United States,33.30160140991211,-104.53099822998048,3671
+3737,DET,Coleman A. Young Municipal Airport,Detroit,United States,42.40919876,-83.00990295,626
+3738,BRO,Brownsville South Padre Island International Airport,Brownsville,United States,25.90679931640625,-97.4259033203125,22
+3739,DHN,Dothan Regional Airport,Dothan,United States,31.3213005065918,-85.44960021972656,401
+3740,WWD,Cape May County Airport,Wildwood,United States,39.008499145500004,-74.9083023071,23
+3742,MTC,Selfridge Angb Airport,Mount Clemens,United States,42.608299255371094,-82.83550262451172,580
+3743,FMN,Four Corners Regional Airport,Farmington,United States,36.7411994934,-108.230003357,5506
+3744,CRP,Corpus Christi International Airport,Corpus Christi,United States,27.77039909362793,-97.5011978149414,44
+3745,SYR,Syracuse Hancock International Airport,Syracuse,United States,43.11119842529297,-76.1063003540039,421
+3746,NQX,Naval Air Station Key West/Boca Chica Field,Key West,United States,24.57579994,-81.68890381,6
+3747,MDW,Chicago Midway International Airport,Chicago,United States,41.7859992980957,-87.75240325927734,620
+3748,SJC,Norman Y. Mineta San Jose International Airport,San Jose,United States,37.36259841918945,-121.9290008544922,62
+3749,HOB,Lea County Regional Airport,Hobbs,United States,32.6875,-103.21700290000001,3661
+3750,PNE,Northeast Philadelphia Airport,Philadelphia,United States,40.08190155,-75.01059723,120
+3751,DEN,Denver International Airport,Denver,United States,39.861698150635,-104.672996521,5431
+3752,PHL,Philadelphia International Airport,Philadelphia,United States,39.87189865112305,-75.24109649658203,36
+3753,SUX,Sioux Gateway Col. Bud Day Field,Sioux City,United States,42.40259933,-96.38439941,1098
+3754,MCN,Middle Georgia Regional Airport,Macon,United States,32.692798614501946,-83.64920043945312,354
+3755,TCS,Truth Or Consequences Municipal Airport,Truth Or Consequences,United States,33.2369003296,-107.27200317399999,4853
+3756,PMD,Palmdale Regional/USAF Plant 42 Airport,Palmdale,United States,34.62939835,-118.08499909999999,2543
+3757,RND,Randolph Air Force Base,San Antonio,United States,29.52969933,-98.27890015,761
+3758,NJK,El Centro Naf Airport,El Centro,United States,32.829200744628906,-115.6719970703125,-42
+3759,CMH,Port Columbus International Airport,Columbus,United States,39.99800109863281,-82.89189910888672,815
+3760,FYV,Drake Field,Fayetteville,United States,36.00510025024414,-94.17009735107422,1251
+3761,FSI,Henry Post Army Air Field (Fort Sill),Fort Sill,United States,34.64979935,-98.40219879,1189
+3762,PNM,Princeton Municipal Airport,Princeton,United States,45.55989838,-93.60820007,980
+3763,FFO,Wright-Patterson Air Force Base,Dayton,United States,39.8260993958,-84.04830169680001,823
+3764,GAL,Edward G. Pitka Sr Airport,Galena,United States,64.73619843,-156.93699650000002,153
+3765,\N,Chandler Municipal Airport,Chandler,United States,33.2691,-111.810997,1243
+3766,MWL,Mineral Wells Airport,Mineral Wells,United States,32.7816009521,-98.0602035522,974
+3767,IAB,Mc Connell Air Force Base,Wichita,United States,37.62189865,-97.26820374,1371
+3768,NBG,New Orleans NAS JRB/Alvin Callender Field,New Orleans,United States,29.82530022,-90.03500366,2
+3769,BFT,Beaufort County Airport,Beaufort,United States,32.4122009277,-80.6343994141,10
+3770,TXK,Texarkana Regional Webb Field,Texarkana,United States,33.45370101928711,-93.99099731445312,390
+3771,PBG,Plattsburgh International Airport,Plattsburgh,United States,44.6509017944336,-73.46810150146484,234
+3772,APG,Phillips Army Air Field,Aberdeen,United States,39.466202,-76.1688,57
+3773,TCC,Tucumcari Municipal Airport,Tucumcari,United States,35.182800293,-103.60299682600001,4065
+3774,ANC,Ted Stevens Anchorage International Airport,Anchorage,United States,61.174400329589844,-149.99600219726562,152
+3775,GRK,Robert Gray  Army Air Field Airport,Killeen,United States,31.067199706999997,-97.8289031982,1015
+3776,ZUN,Black Rock Airport,Zuni Pueblo,United States,35.08319854736328,-108.79199981689452,6454
+3777,BLI,Bellingham International Airport,Bellingham,United States,48.79280090332031,-122.53800201416016,170
+3778,NQA,Millington Regional Jetport Airport,Millington,United States,35.356700897217,-89.87030029296899,320
+3779,EKN,Elkins-Randolph Co-Jennings Randolph Field,Elkins,United States,38.88940048,-79.85710144,1987
+3780,HFD,Hartford Brainard Airport,Hartford,United States,41.736698150635,-72.64939880371101,18
+3781,SFZ,North Central State Airport,Smithfield,United States,41.9207992554,-71.49140167239999,441
+3782,MOB,Mobile Regional Airport,Mobile,United States,30.691200256348,-88.242797851562,219
+3783,NUQ,Moffett Federal Airfield,Mountain View,United States,37.416099548339844,-122.04900360107422,32
+3784,SAF,Santa Fe Municipal Airport,Santa Fe,United States,35.617099761999995,-106.08899688700001,6348
+3785,BKH,Barking Sands Airport,Barking Sands,United States,22.022800445599998,-159.785003662,23
+3786,DRI,Beauregard Regional Airport,Deridder,United States,30.8316993713,-93.3398971558,202
+3787,BSF,Bradshaw Army Airfield,Bradshaw Field,United States,19.760099411,-155.554000854,6190
+3788,OLS,Nogales International Airport,Nogales,United States,31.41769981384277,-110.8479995727539,3955
+3789,MCF,Mac Dill Air Force Base,Tampa,United States,27.84930038,-82.52120209,14
+3790,BLV,Scott AFB/Midamerica Airport,Belleville,United States,38.5452,-89.835197,459
+3791,OPF,Opa-locka Executive Airport,Miami,United States,25.90699959,-80.27839661,8
+3792,DRT,Del Rio International Airport,Del Rio,United States,29.3742008209,-100.92700195299999,1002
+3793,RSW,Southwest Florida International Airport,Fort Myers,United States,26.53619956970215,-81.75520324707031,30
+3794,AKN,King Salmon Airport,King Salmon,United States,58.67679977,-156.6490021,73
+3795,MUI,Muir Army Air Field (Fort Indiantown Gap) Airport,Muir,United States,40.43479919,-76.56939697,488
+3796,JHM,Kapalua Airport,Lahania-kapalua,United States,20.962900161743164,-156.67300415039062,256
+3797,JFK,John F Kennedy International Airport,New York,United States,40.63980103,-73.77890015,13
+3798,HST,Homestead ARB Airport,Homestead,United States,25.48859978,-80.38359833,5
+3799,RAL,Riverside Municipal Airport,Riverside,United States,33.95190048,-117.4449997,819
+3800,FLV,Sherman Army Air Field,Fort Leavenworth,United States,39.3683013916,-94.9147033691,772
+3801,WAL,Wallops Flight Facility Airport,Wallops Island,United States,37.9402008057,-75.46640014649999,40
+3802,HMN,Holloman Air Force Base,Alamogordo,United States,32.8525009155,-106.107002258,4093
+3803,NXX,Willow Grove Naval Air Station/Joint Reserve Base,Willow Grove,United States,40.19979858,-75.14820099,358
+3804,CYS,Cheyenne Regional Jerry Olson Field,Cheyenne,United States,41.15570068,-104.81199649999999,6159
+3805,SCK,Stockton Metropolitan Airport,Stockton,United States,37.894199371338,-121.2379989624,33
+3806,CHS,Charleston Air Force Base-International Airport,Charleston,United States,32.89860153,-80.04049683,46
+3807,RNO,Reno Tahoe International Airport,Reno,United States,39.49909973144531,-119.76799774169922,4415
+3808,KTN,Ketchikan International Airport,Ketchikan,United States,55.35559845,-131.7140045,89
+3809,YIP,Willow Run Airport,Detroit,United States,42.23789978,-83.53040314,716
+3810,VBG,Vandenberg Air Force Base,Lompoc,United States,34.7373008728,-120.583999634,369
+3811,BHM,Birmingham-Shuttlesworth International Airport,Birmingham,United States,33.56290054,-86.75350189,650
+3812,NEL,Lakehurst Maxfield Field Airport,Lakehurst,United States,40.03329849,-74.353302,101
+3814,LSV,Nellis Air Force Base,Las Vegas,United States,36.2361984253,-115.03399658200001,1870
+3815,RIV,March ARB Airport,Riverside,United States,33.88069916,-117.2590027,1536
+3816,MOD,Modesto City Co-Harry Sham Field,Modesto,United States,37.62580109,-120.9540024,97
+3817,SMF,Sacramento International Airport,Sacramento,United States,38.69540023803711,-121.59100341796876,27
+3818,UGN,Waukegan National Airport,Chicago,United States,42.422199249268,-87.86789703369101,727
+3819,COS,City of Colorado Springs Municipal Airport,Colorado Springs,United States,38.805801391602,-104.70099639893,6187
+3820,BUF,Buffalo Niagara International Airport,Buffalo,United States,42.94049835,-78.73220062,728
+3821,SKY,Griffing Sandusky Airport,Sandusky,United States,41.4333992004,-82.6522979736,580
+3822,PAE,Snohomish County (Paine Field) Airport,Everett,United States,47.90629959,-122.28199769999999,606
+3823,MUO,Mountain Home Air Force Base,Mountain Home,United States,43.043597999999996,-115.872002,2996
+3824,CDC,Cedar City Regional Airport,Cedar City,United States,37.70100021362305,-113.0989990234375,5622
+3825,BDL,Bradley International Airport,Windsor Locks,United States,41.9388999939,-72.68319702149999,173
+3826,MFE,Mc Allen Miller International Airport,Mcallen,United States,26.17580032,-98.23860168,107
+3827,NGU,Norfolk Ns (Chambers Fld) Airport,Norfolk,United States,36.93759918,-76.28929901,17
+3828,CEF,Westover ARB/Metropolitan Airport,Chicopee Falls,United States,42.19400024,-72.53479767,241
+3829,LBB,Lubbock Preston Smith International Airport,Lubbock,United States,33.66360092163086,-101.822998046875,3282
+3830,ORD,Chicago O'Hare International Airport,Chicago,United States,41.97859955,-87.90480042,672
+3831,BCT,Boca Raton Airport,Boca Raton,United States,26.3784999847,-80.1076965332,13
+3832,FAI,Fairbanks International Airport,Fairbanks,United States,64.81510162,-147.85600280000003,439
+3833,NYG,Quantico MCAF /Turner field,Quantico,United States,38.50170135,-77.30529785,10
+3834,CVS,Cannon Air Force Base,Clovis,United States,34.3828010559,-103.321998596,4295
+3835,NGF,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,Kaneohe Bay,United States,21.450500488299998,-157.76800537100002,24
+3836,OFF,Offutt Air Force Base,Omaha,United States,41.118301391602,-95.912498474121,1052
+3837,GKN,Gulkana Airport,Gulkana,United States,62.15489960000001,-145.4570007,1586
+3838,ART,Watertown International Airport,Watertown,United States,43.99190139770508,-76.02169799804688,325
+3839,PSP,Palm Springs International Airport,Palm Springs,United States,33.829700469970696,-116.50700378417969,477
+3840,AMA,Rick Husband Amarillo International Airport,Amarillo,United States,35.219398498535156,-101.70600128173828,3607
+3841,FOD,Fort Dodge Regional Airport,Fort Dodge,United States,42.55149841,-94.19259644,1156
+3842,BAD,Barksdale Air Force Base,Shreveport,United States,32.5018005371,-93.6626968384,166
+3843,FOE,Topeka Regional Airport - Forbes Field,Topeka,United States,38.9509010315,-95.6635971069,1078
+3844,COT,Cotulla-La Salle County Airport,Cotulla,United States,28.45669937,-99.22029877,474
+3845,ILM,Wilmington International Airport,Wilmington,United States,34.27059936523437,-77.90260314941406,32
+3846,BTR,"Baton Rouge Metropolitan, Ryan Field",Baton Rouge,United States,30.53319931,-91.14959717,70
+3848,TYR,Tyler Pounds Regional Airport,Tyler,United States,32.35409927368164,-95.40239715576172,544
+3849,BWI,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,United States,39.17539978,-76.66829681,146
+3850,HBR,Hobart Regional Airport,Hobart,United States,34.991316999999995,-99.05131300000001,1563
+3851,LNY,Lanai Airport,Lanai,United States,20.785600662231445,-156.9510040283203,1308
+3852,AEX,Alexandria International Airport,Alexandria,United States,31.32740020751953,-92.54979705810548,89
+3853,WSD,Condron Army Air Field,White Sands,United States,32.34149933,-106.40299990000001,3934
+3854,CDB,Cold Bay Airport,Cold Bay,United States,55.20610046386719,-162.72500610351562,96
+3855,TUL,Tulsa International Airport,Tulsa,United States,36.19839859008789,-95.88809967041016,677
+3856,SIT,Sitka Rocky Gutierrez Airport,Sitka,United States,57.04710006713867,-135.36199951171878,21
+3857,ISP,Long Island Mac Arthur Airport,Islip,United States,40.79520035,-73.10019684,99
+3858,MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,44.8819999695,-93.22180175780001,841
+3859,ILG,New Castle Airport,Wilmington,United States,39.67869949,-75.60649872,80
+3860,DUT,Unalaska Airport,Unalaska,United States,53.900100708000004,-166.54400634799998,22
+3861,MSY,Louis Armstrong New Orleans International Airport,New Orleans,United States,29.99340057373047,-90.25800323486328,4
+3862,PWM,Portland International Jetport Airport,Portland,United States,43.64619827,-70.30930328,76
+3863,OKC,Will Rogers World Airport,Oklahoma City,United States,35.39310073852539,-97.60070037841795,1295
+3864,ALB,Albany International Airport,Albany,United States,42.74829864501953,-73.80169677734375,285
+3865,VDZ,Valdez Pioneer Field,Valdez,United States,61.13389969,-146.24800109999998,121
+3866,LFI,Langley Air Force Base,Hampton,United States,37.082901000999996,-76.360496521,11
+3867,SNA,John Wayne Airport-Orange County Airport,Santa Ana,United States,33.67570114,-117.86799620000001,56
+3868,CBM,Columbus Air Force Base,Colombus,United States,33.643798828099996,-88.44380187990002,219
+3869,TMB,Kendall-Tamiami Executive Airport,Kendall-tamiami,United States,25.6478996277,-80.432800293,8
+3870,NTU,Oceana NAS,Oceana,United States,36.8207016,-76.03350067,23
+3871,GUS,Grissom Air Reserve Base,Peru,United States,40.648101806599996,-86.15209960940001,812
+3872,CPR,Casper-Natrona County International Airport,Casper,United States,42.90800095,-106.4639969,5350
+3873,VPS,Destin-Ft Walton Beach Airport,Valparaiso,United States,30.4832,-86.525398,87
+3874,SEM,Craig Field,Selma,United States,32.343898773193004,-86.98780059814501,166
+3875,EYW,Key West International Airport,Key West,United States,24.556100845336914,-81.75959777832031,3
+3876,CLT,Charlotte Douglas International Airport,Charlotte,United States,35.2140007019043,-80.94309997558594,748
+3877,LAS,McCarran International Airport,Las Vegas,United States,36.08010101,-115.15200039999999,2181
+3878,MCO,Orlando International Airport,Orlando,United States,28.429399490356445,-81.30899810791016,96
+3879,FLO,Florence Regional Airport,Florence,United States,34.18539810180664,-79.7238998413086,146
+3880,GTF,Great Falls International Airport,Great Falls,United States,47.48199844,-111.3710022,3680
+3881,YNG,Youngstown Warren Regional Airport,Youngstown,United States,41.26070023,-80.67910004,1192
+3882,FBK,Ladd AAF Airfield,Fort Wainwright,United States,64.83750153,-147.6139984,454
+3883,MMV,Mc Minnville Municipal Airport,Mackminnville,United States,45.19440079,-123.13600159999999,163
+3884,WRB,Robins Air Force Base,Macon,United States,32.640098571799996,-83.59190368649999,294
+3944,PUW,Pullman Moscow Regional Airport,Pullman,United States,46.7439,-117.110001,2556
+3945,LWS,Lewiston Nez Perce County Airport,Lewiston,United States,46.3745002746582,-117.01499938964844,1442
+3946,ELM,Elmira Corning Regional Airport,Elmira,United States,42.1599006652832,-76.8916015625,954
+3947,ITH,Ithaca Tompkins Regional Airport,Ithaca,United States,42.49100112915039,-76.4583969116211,1099
+3948,MRY,Monterey Peninsula Airport,Monterey,United States,36.58700180053711,-121.84300231933594,257
+3949,SBA,Santa Barbara Municipal Airport,Santa Barbara,United States,34.42620087,-119.8399963,13
+3950,DAB,Daytona Beach International Airport,Daytona Beach,United States,29.179899,-81.058098,34
+4004,TKA,Talkeetna Airport,Talkeetna,United States,62.320499420165994,-150.09399414062,358
+4006,HVN,Tweed New Haven Airport,New Haven,United States,41.26369858,-72.88680267,12
+4007,AVL,Asheville Regional Airport,Asheville,United States,35.43619918823242,-82.54180145263672,2165
+4008,GSO,Piedmont Triad International Airport,Greensboro,United States,36.097801208496094,-79.93730163574219,925
+4009,FSD,Joe Foss Field Airport,Sioux Falls,United States,43.5820007324,-96.741897583,1429
+4011,MHT,Manchester Airport,Manchester NH,United States,42.93259811401367,-71.43569946289062,266
+4012,APF,Naples Municipal Airport,Naples,United States,26.1525993347,-81.7752990723,8
+4014,SDF,Louisville International Standiford Field,Louisville,United States,38.1744,-85.736,501
+4015,CHO,Charlottesville Albemarle Airport,Charlottesville VA,United States,38.13859939575195,-78.4529037475586,639
+4016,ROA,Roanoke–Blacksburg Regional Airport,Roanoke VA,United States,37.3255004883,-79.975402832,1175
+4017,LEX,Blue Grass Airport,Lexington KY,United States,38.0364990234375,-84.60590362548828,979
+4018,EVV,Evansville Regional Airport,Evansville,United States,38.0369987488,-87.53240203860001,418
+4019,ABQ,Albuquerque International Sunport Airport,Albuquerque,United States,35.04019927978516,-106.60900115966795,5355
+4020,BZN,Gallatin Field,Bozeman,United States,45.77750015,-111.15299990000001,4473
+4021,BIL,Billings Logan International Airport,Billings,United States,45.807701110839844,-108.54299926757812,3652
+4022,BTM,Bert Mooney Airport,Butte,United States,45.95479965209961,-112.49700164794922,5550
+4023,TVC,Cherry Capital Airport,Traverse City,United States,44.74140167236328,-85.58219909667969,624
+4025,BHB,Hancock County-Bar Harbor Airport,Bar Harbor,United States,44.45000076,-68.36150359999999,83
+4026,RKD,Knox County Regional Airport,Rockland,United States,44.06010056,-69.09919739,56
+4027,JAC,Jackson Hole Airport,Jacksn Hole,United States,43.6072998046875,-110.73799896240234,6451
+4028,RFD,Chicago Rockford International Airport,Rockford,United States,42.19540023803711,-89.09719848632812,742
+4034,GSP,Greenville Spartanburg International Airport,Greenville,United States,34.895698547399995,-82.2189025879,964
+4037,BMI,Central Illinois Regional Airport at Bloomington-Normal,Bloomington,United States,40.47710037,-88.91590118,871
+4038,GPT,Gulfport Biloxi International Airport,Gulfport,United States,30.40730094909668,-89.07009887695312,28
+4039,AZO,Kalamazoo Battle Creek International Airport,Kalamazoo,United States,42.234901428222656,-85.5521011352539,874
+4040,TOL,Toledo Express Airport,Toledo,United States,41.58679962,-83.80780029,683
+4041,FWA,Fort Wayne International Airport,Fort Wayne,United States,40.97850037,-85.19509888,814
+4042,DEC,Decatur Airport,Decatur,United States,39.83459854125977,-88.8656997680664,682
+4043,CID,The Eastern Iowa Airport,Cedar Rapids,United States,41.88470077514648,-91.71080017089844,869
+4044,LSE,La Crosse Municipal Airport,La Crosse,United States,43.879002,-91.256699,655
+4045,CWA,Central Wisconsin Airport,Wassau,United States,44.7775993347,-89.6668014526,1277
+4046,PIA,General Wayne A. Downing Peoria International Airport,Peoria,United States,40.664199829100006,-89.6932983398,660
+4047,ATW,Appleton International Airport,Appleton,United States,44.258098602299995,-88.51909637450001,918
+4048,RST,Rochester International Airport,Rochester,United States,43.90829849243164,-92.5,1317
+4049,CMI,University of Illinois Willard Airport,Champaign,United States,40.03919983,-88.27809906,755
+4050,MHK,Manhattan Regional Airport,Manhattan,United States,39.14099884033203,-96.6707992553711,1057
+4058,FKL,Venango Regional Airport,Franklin,United States,41.3778991699,-79.8603973389,1540
+4063,GJT,Grand Junction Regional Airport,Grand Junction,United States,39.1223983765,-108.527000427,4858
+4064,SGU,St George Municipal Airport,Saint George,United States,37.0363888889,-113.510305556,2941
+4065,DWH,David Wayne Hooks Memorial Airport,Houston,United States,30.0618000031,-95.5528030396,152
+4066,S46,Port O'Connor Private Airport,Port O\\'Connor,United States,28.42970085144043,-96.44439697265624,8
+4067,SRQ,Sarasota Bradenton International Airport,Sarasota,United States,27.39539909362793,-82.55439758300781,30
+4071,VNY,Van Nuys Airport,Van Nuys,United States,34.209800720215,-118.48999786376999,802
+4072,MLI,Quad City International Airport,Moline,United States,41.44850158691406,-90.50749969482422,590
+4073,PFN,Panama City-Bay Co International Airport,Panama City,United States,30.212099,-85.6828,20
+4083,BIS,Bismarck Municipal Airport,Bismarck,United States,46.77270126342773,-100.74600219726562,1661
+4084,TEX,Telluride Regional Airport,Telluride,United States,37.9538002,-107.90799709999999,9070
+4087,RAP,Rapid City Regional Airport,Rapid City,United States,44.0452995300293,-103.05699920654295,3204
+4088,CLD,Mc Clellan-Palomar Airport,Carlsbad,United States,33.12829971,-117.27999879999999,331
+4089,FNT,Bishop International Airport,Flint,United States,42.96540069580078,-83.74359893798828,782
+4098,RDD,Redding Municipal Airport,Redding,United States,40.50899887,-122.2929993,505
+4099,EUG,Mahlon Sweet Field,Eugene,United States,44.12459945678711,-123.21199798583984,374
+4100,IDA,Idaho Falls Regional Airport,Idaho Falls,United States,43.51459884643555,-112.0709991455078,4744
+4101,MFR,Rogue Valley International Medford Airport,Medford,United States,42.37419891357422,-122.8730010986328,1335
+4103,RDM,Roberts Field,Redmond-Bend,United States,44.254100799999996,-121.15000149999999,3080
+4112,CAK,Akron Canton Regional Airport,Akron,United States,40.916099548339844,-81.44219970703125,1228
+4113,HSV,Huntsville International Carl T Jones Field,Huntsville,United States,34.637199401855,-86.775100708008,629
+4114,PKB,Mid Ohio Valley Regional Airport,PARKERSBURG,United States,39.34510040283203,-81.43920135498047,858
+4115,MGM,Montgomery Regional (Dannelly Field) Airport,MONTGOMERY,United States,32.30059814,-86.39399719,221
+4116,TRI,Tri Cities Regional Tn Va Airport,BRISTOL,United States,36.47520065307617,-82.40740203857422,1519
+4117,PAH,Barkley Regional Airport,PADUCAH,United States,37.06079864501953,-88.7738037109375,410
+4124,PGA,Page Municipal Airport,Page,United States,36.92610168,-111.447998,4316
+4127,FCA,Glacier Park International Airport,Kalispell,United States,48.31050109863281,-114.25599670410156,2977
+4128,MBS,MBS International Airport,Saginaw,United States,43.532901763916016,-84.07959747314453,668
+4129,BGM,Greater Binghamton/Edwin A Link field,Binghamton,United States,42.20869827,-75.97979736,1636
+4136,BLH,Blythe Airport,Blythe,United States,33.6192016602,-114.717002869,399
+4147,PSG,Petersburg James A Johnson Airport,Petersburg,United States,56.80170059,-132.9450073,111
+4167,SFB,Orlando Sanford International Airport,Sanford,United States,28.7775993347168,-81.23750305175781,55
+4169,JST,John Murtha Johnstown Cambria County Airport,Johnstown,United States,40.31610107421875,-78.83390045166016,2284
+4216,MSO,Missoula International Airport,Missoula,United States,46.91630173,-114.0910034,3206
+4219,GCN,Grand Canyon National Park Airport,Grand Canyon,United States,35.95240020751953,-112.14700317382812,6609
+4220,SGR,Sugar Land Regional Airport,Sugar Land,United States,29.622299194335998,-95.65650177001999,82
+4222,APA,Centennial Airport,Denver,United States,39.57009888,-104.84899899999999,5885
+4223,CVN,Clovis Municipal Airport,Clovis,United States,34.4250984192,-103.07900238,4216
+4224,FST,Fort Stockton Pecos County Airport,Fort Stockton,United States,30.9157009125,-102.916000366,3011
+4225,LVS,Las Vegas Municipal Airport,Las Vegas,United States,35.6542015076,-105.14199829100001,6877
+4226,IWS,West Houston Airport,Houston,United States,29.8181991577,-95.6725997925,111
+4227,LHX,La Junta Municipal Airport,La Junta,United States,38.04970169,-103.5090027,4229
+4228,LRU,Las Cruces International Airport,Las Cruces,United States,32.28939819335937,-106.9219970703125,4456
+4229,BKD,Stephens County Airport,Breckenridge,United States,32.71900177,-98.8909988403,1284
+4230,TPL,Draughon Miller Central Texas Regional Airport,Temple,United States,31.15250015258789,-97.40779876708984,682
+4231,OZA,Ozona Municipal Airport,Ozona,United States,30.735300064087,-101.20300292969,2381
+4250,EGE,Eagle County Regional Airport,Vail,United States,39.64260101,-106.9179993,6548
+4253,CGF,Cuyahoga County Airport,Richmond Heights,United States,41.5651016235,-81.4863967896,879
+4254,MFD,Mansfield Lahm Regional Airport,Mansfield,United States,40.82139968869999,-82.5166015625,1297
+4255,CSG,Columbus Metropolitan Airport,Columbus,United States,32.516300201416016,-84.93890380859375,397
+4256,LAW,Lawton Fort Sill Regional Airport,Lawton,United States,34.5676994324,-98.4166030884,1110
+4257,FNL,Fort Collins Loveland Municipal Airport,Fort Collins,United States,40.4518013,-105.01100158700001,5016
+4261,FLG,Flagstaff Pulliam Airport,Flagstaff,United States,35.13850021,-111.6709976,7014
+4262,TVL,Lake Tahoe Airport,South Lake Tahoe,United States,38.89390182495117,-119.99500274658205,6264
+4263,TWF,Joslin Field Magic Valley Regional Airport,Twin Falls,United States,42.48180008,-114.487999,4154
+4265,MVY,Martha's Vineyard Airport,Vineyard Haven MA,United States,41.393100738499996,-70.6143035889,67
+4268,CON,Concord Municipal Airport,Concord NH,United States,43.20270157,-71.50229645,342
+4270,GON,Groton New London Airport,Groton CT,United States,41.3301010131836,-72.04509735107422,9
+4271,STC,St Cloud Regional Airport,Saint Cloud,United States,45.54660034179688,-94.05989837646484,1031
+4273,GTR,Golden Triangle Regional Airport,Columbus Mississippi,United States,33.450298309299995,-88.59140014649999,264
+4275,HQM,Bowerman Airport,Hoquiam,United States,46.9711990356,-123.93699646,18
+4276,ERI,Erie International Tom Ridge Field,Erie,United States,42.0831270134,-80.1738667488,732
+4278,HYA,Barnstable Municipal Boardman Polando Field,Barnstable,United States,41.66930008,-70.28040314,54
+4280,SDX,Sedona Airport,Sedona,United States,34.848598480225,-111.78800201416,4830
+4284,MGW,Morgantown Municipal Walter L. Bill Hart Field,Morgantown,United States,39.64289856,-79.91629791,1248
+4285,CRW,Yeager Airport,Charleston,United States,38.37310028076172,-81.59320068359375,981
+4286,AVP,Wilkes Barre Scranton International Airport,Scranton,United States,41.338500976599995,-75.72339630130001,962
+4287,BJI,Bemidji Regional Airport,Bemidji,United States,47.50939941,-94.93370056,1391
+4292,FAR,Hector International Airport,Fargo,United States,46.92070007324219,-96.81580352783205,902
+4293,MKC,Charles B. Wheeler Downtown Airport,Kansas City,United States,39.12319946289063,-94.5927963256836,759
+4296,GCC,Gillette Campbell County Airport,Gillette,United States,44.3488998413,-105.539001465,4365
+4318,SCE,University Park Airport,State College Pennsylvania,United States,40.8493003845,-77.84870147710002,1239
+4335,MEI,Key Field,Meridian,United States,32.33259963989258,-88.75189971923828,297
+4336,SPI,Abraham Lincoln Capital Airport,Springfield,United States,39.84410095,-89.67790222,598
+4338,CEZ,Cortez Municipal Airport,Cortez,United States,37.3030014038,-108.627998352,5918
+4339,HDN,Yampa Valley Airport,Hayden,United States,40.48120117,-107.21800230000001,6606
+4340,GUP,Gallup Municipal Airport,Gallup,United States,35.511100769,-108.789001465,6472
+4341,LBL,Liberal Mid-America Regional Airport,Liberal,United States,37.04420089999999,-100.95999909999999,2885
+4342,LAA,Lamar Municipal Airport,Lamar,United States,38.069698333699996,-102.68800354,3706
+4343,GLD,Renner Field-Goodland Municipal Airport,Goodland,United States,39.37060165,-101.6989975,3656
+4344,COD,Yellowstone Regional Airport,Cody,United States,44.520198822,-109.024002075,5102
+4348,SGF,Springfield Branson National Airport,Springfield,United States,37.24570084,-93.38860321,1268
+4354,JLN,Joplin Regional Airport,Joplin,United States,37.151798248291016,-94.49829864501952,981
+4355,ABE,Lehigh Valley International Airport,Allentown,United States,40.652099609375,-75.44080352783203,393
+4356,XNA,Northwest Arkansas Regional Airport,Bentonville,United States,36.281898,-94.30680100000001,1287
+4359,SBN,South Bend Regional Airport,South Bend,United States,41.70869827270508,-86.31729888916016,799
+4383,SMD,Smith Field,Fort Wayne IN,United States,41.14339828,-85.15280151,835
+4384,ACV,Arcata Airport,Arcata CA,United States,40.97809982299805,-124.10900115966795,221
+4386,OAJ,Albert J Ellis Airport,Jacksonville NC,United States,34.8292007446,-77.61209869380002,94
+4387,TCL,Tuscaloosa Regional Airport,Tuscaloosa AL,United States,33.220600128174,-87.611396789551,170
+4388,DBQ,Dubuque Regional Airport,Dubuque IA,United States,42.40200043,-90.70950317,1077
+5714,ABR,Aberdeen Regional Airport,Aberdeen,United States,45.44910049438477,-98.42179870605469,1302
+5715,ABY,Southwest Georgia Regional Airport,Albany,United States,31.535499572753906,-84.19450378417969,197
+5716,AHN,Athens Ben Epps Airport,Athens,United States,33.94860076904297,-83.32630157470703,808
+5717,ALM,Alamogordo White Sands Regional Airport,Alamogordo,United States,32.839900970500004,-105.990997314,4200
+5718,ALO,Waterloo Regional Airport,Waterloo,United States,42.55709838867188,-92.40029907226562,873
+5719,ALW,Walla Walla Regional Airport,Walla Walla,United States,46.09489822,-118.288002,1194
+5720,APN,Alpena County Regional Airport,Alpena,United States,45.07809829999999,-83.56030273,690
+5721,ATY,Watertown Regional Airport,Watertown,United States,44.91400146,-97.15470123,1749
+5722,BFD,Bradford Regional Airport,Bradford,United States,41.8031005859375,-78.64009857177734,2143
+5723,BFF,Western Neb. Rgnl/William B. Heilig Airport,Scottsbluff,United States,41.87400055,-103.5960007,3967
+5724,BKW,Raleigh County Memorial Airport,Beckley,United States,37.787300109899995,-81.1241989136,2504
+5725,BQK,Brunswick Golden Isles Airport,Brunswick,United States,31.2588005065918,-81.46649932861328,26
+5726,BRL,Southeast Iowa Regional Airport,Burlington,United States,40.783199310302734,-91.12550354003906,698
+5727,CEC,Jack Mc Namara Field Airport,Crescent City,United States,41.78020096,-124.23699950000001,61
+5728,CGI,Cape Girardeau Regional Airport,Cape Girardeau,United States,37.22529983520508,-89.57080078125,342
+5729,CIU,Chippewa County International Airport,Sault Ste Marie,United States,46.25080108642578,-84.47239685058594,800
+5730,CKB,North Central West Virginia Airport,Clarksburg,United States,39.2966003418,-80.2281036377,1217
+5731,CLM,William R Fairchild International Airport,Port Angeles,United States,48.120201110839844,-123.5,291
+5732,CMX,Houghton County Memorial Airport,Hancock,United States,47.16839981079102,-88.48909759521484,1095
+5733,DDC,Dodge City Regional Airport,Dodge City,United States,37.76340103149414,-99.9655990600586,2594
+5734,DUJ,DuBois Regional Airport,Du Bois,United States,41.17829895,-78.8986969,1817
+5735,EAU,Chippewa Valley Regional Airport,Eau Claire,United States,44.86579895019531,-91.48429870605469,913
+5736,EKO,Elko Regional Airport,Elko,United States,40.82490158081055,-115.79199981689452,5140
+5737,EWB,New Bedford Regional Airport,New Bedford,United States,41.67610168457031,-70.95690155029297,80
+5738,FAY,Fayetteville Regional Grannis Field,Fayetteville,United States,34.991199493408196,-78.88030242919922,189
+5739,GGW,Wokal Field Glasgow International Airport,Glasgow,United States,48.2125015258789,-106.61499786376952,2296
+5740,GRI,Central Nebraska Regional Airport,Grand Island,United States,40.96749877929688,-98.30960083007812,1847
+5741,HOT,Memorial Field,Hot Springs,United States,34.47800064086914,-93.09619903564452,540
+5742,HTS,Tri-State/Milton J. Ferguson Field,Huntington,United States,38.36669922,-82.55799866,828
+5744,IRK,Kirksville Regional Airport,Kirksville,United States,40.09349822998047,-92.5448989868164,966
+5745,JMS,Jamestown Regional Airport,Jamestown,United States,46.92969894,-98.67819977,1500
+5746,LAR,Laramie Regional Airport,Laramie,United States,41.31209945678711,-105.6750030517578,7284
+5747,LBE,Arnold Palmer Regional Airport,Latrobe,United States,40.27590179,-79.40480042,1199
+5748,LBF,North Platte Regional Airport Lee Bird Field,North Platte,United States,41.12620163,-100.6839981,2777
+5749,LEB,Lebanon Municipal Airport,Lebanon,United States,43.626098632799994,-72.30419921880002,603
+5750,LMT,Klamath Falls Airport,Klamath Falls,United States,42.15610122680664,-121.73300170898438,4095
+5751,LNS,Lancaster Airport,Lancaster,United States,40.12170028686523,-76.29609680175781,403
+5752,LWT,Lewistown Municipal Airport,Lewistown,United States,47.04930114746094,-109.46700286865234,4170
+5753,LYH,Lynchburg Regional Preston Glenn Field,Lynchburg,United States,37.326698303222656,-79.20040130615234,938
+5754,MKG,Muskegon County Airport,Muskegon,United States,43.16949844,-86.23819733,629
+5755,MLS,Frank Wiley Field,Miles City,United States,46.428001403808594,-105.88600158691406,2630
+5756,MSL,Northwest Alabama Regional Airport,Muscle Shoals,United States,34.74530029,-87.61019897,551
+5757,OTH,Southwest Oregon Regional Airport,North Bend,United States,43.41709899902344,-124.24600219726562,17
+5758,OWB,Owensboro Daviess County Airport,Owensboro,United States,37.74010086,-87.16680145,407
+5759,PIB,Hattiesburg Laurel Regional Airport,Hattiesburg/Laurel,United States,31.467100143432614,-89.33709716796875,298
+5760,PIH,Pocatello Regional Airport,Pocatello,United States,42.9098014831543,-112.59600067138672,4452
+5761,PIR,Pierre Regional Airport,Pierre,United States,44.38270187,-100.2860031,1744
+5762,PLN,Pellston Regional Airport of Emmet County Airport,Pellston,United States,45.57089996,-84.79669952,721
+5763,PSM,Portsmouth International at Pease Airport,Portsmouth,United States,43.0778999329,-70.8233032227,100
+5764,RDG,Reading Regional Carl A Spaatz Field,Reading,United States,40.378501892089844,-75.96520233154297,344
+5765,RHI,Rhinelander Oneida County Airport,Rhinelander,United States,45.63119888305664,-89.46749877929688,1624
+5766,RKS,Rock Springs Sweetwater County Airport,Rock Springs,United States,41.59420013,-109.0650024,6764
+5767,RUT,Rutland - Southern Vermont Regional Airport,Rutland,United States,43.52939987,-72.94960022,787
+5768,SBP,San Luis County Regional Airport,San Luis Obispo,United States,35.2368011475,-120.64199829100001,212
+5769,SHR,Sheridan County Airport,Sheridan,United States,44.76919937133789,-106.9800033569336,4021
+5770,SLK,Adirondack Regional Airport,Saranac Lake,United States,44.38529968261719,-74.2061996459961,1663
+5771,SLN,Salina Municipal Airport,Salina,United States,38.79100036621094,-97.6521987915039,1288
+5772,SMX,Santa Maria Pub/Capt G Allan Hancock Field,Santa Maria,United States,34.89889908,-120.4570007,261
+5773,TUP,Tupelo Regional Airport,Tupelo,United States,34.26810073852539,-88.7698974609375,346
+5774,UIN,Quincy Regional Baldwin Field,Quincy,United States,39.94269943,-91.19460297,768
+5775,VCT,Victoria Regional Airport,Victoria,United States,28.85260009765625,-96.9185028076172,115
+5776,VLD,Valdosta Regional Airport,Valdosta,United States,30.78249931335449,-83.27670288085938,203
+5777,WRL,Worland Municipal Airport,Worland,United States,43.9656982421875,-107.95099639892578,4227
+5779,YKM,Yakima Air Terminal McAllister Field,Yakima,United States,46.56819916,-120.5439987,1099
+5959,ADK,Adak Airport,Adak Island,United States,51.87799835205078,-176.64599609375,18
+5960,GST,Gustavus Airport,Gustavus,United States,58.42530060000001,-135.7070007,35
+5961,SGY,Skagway Airport,Skagway,United States,59.46009826660156,-135.31599426269528,44
+5962,HCR,Holy Cross Airport,Holy Cross,United States,62.18830108642578,-159.77499389648438,70
+5963,HNS,Haines Airport,Haines,United States,59.24380111694336,-135.52400207519528,15
+5964,KLG,Kalskag Airport,Kalskag,United States,61.53630065917969,-160.34100341796875,55
+5965,MCG,McGrath Airport,Mcgrath,United States,62.95289993,-155.60600280000003,341
+5966,MOU,Mountain Village Airport,Mountain Village,United States,62.09540176391602,-163.6820068359375,337
+5967,ANI,Aniak Airport,Aniak,United States,61.58160018920898,-159.54299926757812,88
+5968,VAK,Chevak Airport,Chevak,United States,61.5409,-165.6005,75
+5969,WRG,Wrangell Airport,Wrangell,United States,56.48429871,-132.36999509999998,49
+5989,LUP,Kalaupapa Airport,Molokai,United States,21.21100044,-156.973999,24
+6126,WKK,Aleknagik / New Airport,Aleknagik,United States,59.2826004028,-158.617996216,66
+6128,BLF,Mercer County Airport,Bluefield,United States,37.295799255371094,-81.20770263671875,2857
+6130,GLH,Mid Delta Regional Airport,Greenville,United States,33.482898712158196,-90.98560333251952,131
+6133,PSC,Tri Cities Airport,Pasco,United States,46.26470184326172,-119.11900329589844,410
+6134,KQA,Akutan Seaplane Base,Akutan,United States,54.1337704415,-165.77889561700002,0
+6136,LPS,Lopez Island Airport,Lopez,United States,48.4838981628418,-122.93800354003906,209
+6415,WKL,Waikoloa Heliport,Waikoloa Village,United States,19.9205,-155.8607,119
+6426,ORH,Worcester Regional Airport,Worcester,United States,42.26729965209961,-71.87570190429688,1009
+6445,PWT,Bremerton National Airport,Bremerton,United States,47.490200042725,-122.76499938965,444
+6446,SPW,Spencer Municipal Airport,Spencer,United States,43.165500640869,-95.202796936035,1339
+6447,JEF,Jefferson City Memorial Airport,Jefferson City,United States,38.591201782199995,-92.1560974121,549
+6456,PVC,Provincetown Municipal Airport,Provincetown,United States,42.071899414099995,-70.2213973999,9
+6481,FUL,Fullerton Municipal Airport,Fullerton,United States,33.8720016479,-117.980003357,96
+6482,\N,Concord Regional Airport,Concord,United States,35.387798,-80.709099,705
+6494,SUN,Friedman Memorial Airport,Hailey,United States,43.50439835,-114.2959976,5318
+6500,MCW,Mason City Municipal Airport,Mason City,United States,43.15779876710001,-93.33129882809999,1213
+6505,AZA,Phoenix-Mesa-Gateway Airport,Mesa,United States,33.30780029,-111.65499879999999,1382
+6712,AKP,Anaktuvuk Pass Airport,Anaktuvuk Pass,United States,68.13359833,-151.7429962,2102
+6713,ANV,Anvik Airport,Anvik,United States,62.646702000000005,-160.190994,291
+6714,ATK,Atqasuk Edward Burnell Sr Memorial Airport,Atqasuk,United States,70.46730041503906,-157.43600463867188,96
+6715,GAM,Gambell Airport,Gambell,United States,63.76679992675781,-171.73300170898438,27
+6716,HPB,Hooper Bay Airport,Hooper Bay,United States,61.52389908,-166.1470032,13
+6717,KAL,Kaltag Airport,Kaltag,United States,64.31909943,-158.74099730000003,181
+6718,KSM,St Mary's Airport,St Mary's,United States,62.0605011,-163.30200200000002,312
+6719,KVL,Kivalina Airport,Kivalina,United States,67.73619842529297,-164.56300354003906,13
+6720,MYU,Mekoryuk Airport,Mekoryuk,United States,60.37139892578125,-166.27099609375,48
+6722,RBY,Ruby Airport,Ruby,United States,64.72720337,-155.47000119999998,658
+6723,SHH,Shishmaref Airport,Shishmaref,United States,66.249604,-166.089112,12
+6724,SVA,Savoonga Airport,Savoonga,United States,63.6864013671875,-170.4929962158203,53
+6725,WTK,Noatak Airport,Noatak,United States,67.56610107421875,-162.97500610351562,88
+6729,ARC,Arctic Village Airport,Arctic Village,United States,68.1147,-145.578995,2092
+6739,HGR,Hagerstown Regional Richard A Henson Field,Hagerstown,United States,39.707901,-77.72949982,703
+6742,SDP,Sand Point Airport,Sand Point,United States,55.31499862670898,-160.5229949951172,21
+6755,DRG,Deering Airport,Deering,United States,66.0696029663,-162.76600647,21
+6763,IGG,Igiugig Airport,Igiugig,United States,59.32400131225586,-155.90199279785156,90
+6764,KNW,New Stuyahok Airport,New Stuyahok,United States,59.4499015808,-157.32800293,364
+6765,KVC,King Cove Airport,King Cove,United States,55.11629867553711,-162.26600646972656,155
+6766,PTH,Port Heiden Airport,Port Heiden,United States,56.95909881591797,-158.63299560546875,95
+6767,TOG,Togiak Airport,Togiak Village,United States,59.05279922485352,-160.39700317382812,21
+6800,ESC,Delta County Airport,Escanaba,United States,45.7226982117,-87.0936965942,609
+6803,YAK,Yakutat Airport,Yakutat,United States,59.503299713100006,-139.660003662,33
+6825,MWA,Williamson County Regional Airport,Marion,United States,37.75500107,-89.01110077,472
+6837,IMT,Ford Airport,Iron Mountain,United States,45.8184013367,-88.11450195309999,1182
+6838,\N,Marquette Airport,Marquette,United States,46.53390121459961,-87.5614013671875,1424
+6839,AET,Allakaket Airport,Allakaket,United States,66.5518035889,-152.621994019,441
+6844,MGC,Michigan City Municipal Airport,Michigan City,United States,41.703300476100004,-86.8211975098,655
+6845,SWD,Seward Airport,Seward,United States,60.12689971923828,-149.41900634765625,22
+6849,GRM,Grand Marais Cook County Airport,Grand Marais,United States,47.838298797600004,-90.3828964233,1799
+6853,AUW,Wausau Downtown Airport,Wausau,United States,44.9262008667,-89.62660217290001,1201
+6871,MIE,Delaware County Johnson Field,Muncie,United States,40.2422981262207,-85.3958969116211,937
+6873,LAF,Purdue University Airport,Lafayette,United States,40.41230010986328,-86.93689727783203,606
+6876,\N,Brown County Airport,Georgetown,United States,38.88190078735352,-83.88269805908203,958
+6877,VGT,North Las Vegas Airport,Las Vegas,United States,36.21070098877,-115.19400024414,2205
+6878,ENW,Kenosha Regional Airport,Kenosha,United States,42.59569931,-87.92780304,742
+6880,MTJ,Montrose Regional Airport,Montrose CO,United States,38.5097999573,-107.89399719200001,5759
+6881,RIW,Riverton Regional Airport,Riverton WY,United States,43.064201355,-108.459999084,5525
+6883,PDT,Eastern Oregon Regional At Pendleton Airport,Pendleton,United States,45.695098877,-118.84100341799999,1497
+6909,OSH,Wittman Regional Airport,Oshkosh,United States,43.98440170288086,-88.55699920654297,808
+6916,EAT,Pangborn Memorial Airport,Wenatchee,United States,47.3988990784,-120.20700073200001,1249
+6948,\N,NAS Fort Worth JRB/Carswell Field,Dallas,United States,32.76919937,-97.4414978,650
+6956,GYY,Gary Chicago International Airport,Gary,United States,41.61629867553711,-87.41280364990234,591
+6957,BRD,Brainerd Lakes Regional Airport,Brainerd,United States,46.39830017,-94.13809967,1232
+6958,LWB,Greenbrier Valley Airport,Lewisburg,United States,37.8582992554,-80.3994979858,2302
+6959,PGV,Pitt Greenville Airport,Greenville,United States,35.6352005,-77.38529968,26
+6960,CYF,Chefornak Airport,Chefornak,United States,60.1492004395,-164.285995483,40
+6961,OXR,Oxnard Airport,Oxnard,United States,34.200801849365,-119.20700073241998,45
+6968,SCH,Schenectady County Airport,Scotia NY,United States,42.852500915527,-73.92890167236301,378
+6989,UST,Northeast Florida Regional Airport,St. Augustine Airport,United States,29.959199905395998,-81.339797973633,10
+6992,STS,Charles M. Schulz Sonoma County Airport,Santa Rosa,United States,38.50899887,-122.8130035,128
+6993,ISM,Kissimmee Gateway Airport,Kissimmee,United States,28.289800643899998,-81.43710327149999,82
+6994,LCQ,Lake City Gateway Airport,Lake City,United States,30.181999206500002,-82.57689666750002,201
+6995,\N,Deland Municipal Sidney H Taylor Field,DeLand,United States,29.06699944,-81.28379822,79
+6996,\N,Haller Airpark,Green Cove Springs,United States,29.904057,-81.68515,75
+6998,LGU,Logan-Cache Airport,Logan,United States,41.7911987305,-111.851997375,4457
+6999,BMC,Brigham City Airport,Brigham City,United States,41.552398681599996,-112.06199646,4229
+7000,MLD,Malad City Airport,Malad City,United States,42.16659927368164,-112.2969970703125,4503
+7001,ASE,Aspen-Pitkin Co/Sardy Field,Aspen,United States,39.22320175,-106.8690033,7820
+7009,ERV,Kerrville Municipal Louis Schreiner Field,Kerrville,United States,29.9766998291,-99.08570098879999,1617
+7011,GED,Sussex County Airport,Georgetown,United States,38.68920135,-75.35890198,53
+7013,GBN,Great Bend Municipal Airport,Great Bend,United States,38.3442993164,-98.85919952389999,1887
+7014,HYS,Hays Regional Airport,Hays,United States,38.84220123,-99.27320099,1999
+7015,SUS,Spirit of St Louis Airport,Null,United States,38.662101745605,-90.652000427246,463
+7016,LYU,Ely Municipal Airport,Ely,United States,47.82450104,-91.83070374,1456
+7017,GPZ,Grand Rapids Itasca Co-Gordon Newstrom field,Grand Rapids MN,United States,47.21110153,-93.50980377,1355
+7018,TVF,Thief River Falls Regional Airport,Thief River Falls,United States,48.06570053,-96.18499756,1119
+7019,EGV,Eagle River Union Airport,Eagle River,United States,45.9323005676,-89.26830291750002,1642
+7020,ARV,Lakeland-Noble F. Lee Memorial field,Minocqua - Woodruff,United States,45.92789841,-89.73090363,1629
+7021,IKV,Ankeny Regional Airport,Ankeny,United States,41.69139862060547,-93.56639862060548,910
+7023,NGP,Corpus Christi Naval Air Station/Truax Field,Corpus Christi,United States,27.69260025,-97.29109955,18
+7025,AVX,Catalina Airport,Catalina Island,United States,33.4049,-118.416,1602
+7026,MHV,Mojave Airport,Mojave,United States,35.05939865,-118.15200039999999,2801
+7035,HUT,Hutchinson Municipal Airport,Hutchinson,United States,38.0654983521,-97.86060333250002,1543
+7042,STJ,Rosecrans Memorial Airport,Rosecrans,United States,39.771900177002,-94.909698486328,826
+7048,VOK,Volk Field,Camp Douglas,United States,43.938999176025,-90.253402709961,912
+7051,GUC,Gunnison Crested Butte Regional Airport,Gunnison,United States,38.53390121,-106.9329987,7680
+7053,TOA,Zamperini Field,Torrance,United States,33.803398132324,-118.33999633789,103
+7054,MBL,Manistee Co Blacker Airport,Manistee,United States,44.2723999,-86.24690247,621
+7056,PGD,Charlotte County Airport,Punta Gorda,United States,26.92020035,-81.99050140000001,26
+7058,WFK,Northern Aroostook Regional Airport,Frenchville,United States,47.2854995728,-68.31279754639999,988
+7059,JHW,Chautauqua County-Jamestown Airport,Jamestown,United States,42.15340042,-79.25800323,1723
+7061,SME,Lake Cumberland Regional Airport,Somerset,United States,37.0533981323,-84.61589813229999,927
+7062,SHD,Shenandoah Valley Regional Airport,Weyers Cave,United States,38.2638015747,-78.8964004517,1201
+7063,DVL,Devils Lake Regional Airport,Devils Lake,United States,48.11420059,-98.90879822,1456
+7064,DIK,Dickinson Theodore Roosevelt Regional Airport,Dickinson,United States,46.7974014282,-102.80200195299999,2592
+7065,SDY,Sidney Richland Municipal Airport,Sidney,United States,47.70690155,-104.1930008,1985
+7066,CDR,Chadron Municipal Airport,Chadron,United States,42.837600708000004,-103.095001221,3297
+7067,AIA,Alliance Municipal Airport,Alliance,United States,42.0531997681,-102.804000854,3931
+7068,MCK,Mc Cook Ben Nelson Regional Airport,McCook,United States,40.20629883,-100.59200290000001,2583
+7069,MTH,The Florida Keys Marathon Airport,Marathon,United States,24.72610092,-81.05139923,5
+7070,GDV,Dawson Community Airport,Glendive,United States,47.13869858,-104.8069992,2458
+7071,OLF,L M Clayton Airport,Wolf Point,United States,48.0945014954,-105.57499694799999,1986
+7072,WYS,Yellowstone Airport,West Yellowstone,United States,44.68840027,-111.11799620000001,6649
+7073,ALS,San Luis Valley Regional Bergman Field,Alamosa,United States,37.434898,-105.866997,7539
+7074,CNY,Canyonlands Field,Moab,United States,38.75500107,-109.7549973,4557
+7075,ELY,Ely Airport Yelland Field,Ely,United States,39.29970169,-114.84200290000001,6259
+7076,VEL,Vernal Regional Airport,Vernal,United States,40.4408989,-109.5100021,5278
+7077,SRR,Sierra Blanca Regional Airport,Ruidoso,United States,33.462799072266,-105.53500366211,6814
+7078,SOW,Show Low Regional Airport,Show Low,United States,34.265499115,-110.005996704,6415
+7079,MYL,McCall Municipal Airport,McCall,United States,44.88970184,-116.10099790000001,5024
+7080,SMN,Lemhi County Airport,Salmon,United States,45.1237983704,-113.880996704,4043
+7081,MMH,Mammoth Yosemite Airport,Mammoth Lakes,United States,37.62409973,-118.83799740000002,7135
+7082,FRD,Friday Harbor Airport,Friday Harbor,United States,48.5219993591,-123.024002075,113
+7083,ESD,Orcas Island Airport,Eastsound,United States,48.708198547399995,-122.91000366200001,31
+7085,AST,Astoria Regional Airport,Astoria,United States,46.158000946,-123.87899780299999,15
+7086,ONP,Newport Municipal Airport,Newport,United States,44.58039855957031,-124.05799865722656,160
+7087,EMK,Emmonak Airport,Emmonak,United States,62.78609848,-164.49099730000003,13
+7088,UNK,Unalakleet Airport,Unalakleet,United States,63.88840103,-160.798996,27
+7089,UUK,Ugnu-Kuparuk Airport,Kuparuk,United States,70.33080291750001,-149.59800720200002,67
+7090,SHX,Shageluk Airport,Shageluk,United States,62.6922988892,-159.569000244,79
+7092,NUI,Nuiqsut Airport,Nuiqsut,United States,70.2099990845,-151.00599670399998,38
+7093,EEK,Eek Airport,Eek,United States,60.21367264,-162.0438843,12
+7094,KUK,Kasigluk Airport,Kasigluk,United States,60.87440109,-162.5240021,48
+7095,KWT,Kwethluk Airport,Kwethluk,United States,60.790298461899994,-161.444000244,25
+7096,KWK,Kwigillingok Airport,Kwigillingok,United States,59.876499,-163.169005,18
+7097,MLL,Marshall Don Hunter Sr Airport,Marshall,United States,61.8642997742,-162.026000977,103
+7098,RSH,Russian Mission Airport,Russian Mission,United States,61.7788848877,-161.319458008,51
+7101,KGK,Koliganek Airport,Koliganek,United States,59.726600647,-157.259002686,269
+7103,KMO,Manokotak Airport,Manokotak,United States,58.9902000427,-159.050003052,100
+7105,CIK,Chalkyitsik Airport,Chalkyitsik,United States,66.6449966431,-143.74000549299998,544
+7106,EAA,Eagle Airport,Eagle,United States,64.77639771,-141.151001,908
+7107,HUS,Hughes Airport,Hughes,United States,66.04109955,-154.26300049999998,299
+7108,HSL,Huslia Airport,Huslia,United States,65.69789886,-156.3509979,220
+7111,NUL,Nulato Airport,Nulato,United States,64.72930145263672,-158.07400512695312,399
+7114,VEE,Venetie Airport,Venetie,United States,67.0086975098,-146.365997314,574
+7115,WBQ,Beaver Airport,Beaver,United States,66.36219787600001,-147.406997681,359
+7116,CEM,Central Airport,Central,United States,65.57379913,-144.78300480000001,937
+7117,SHG,Shungnak Airport,Shungnak,United States,66.88809967041,-157.16200256348,197
+7120,IYK,Inyokern Airport,Inyokern,United States,35.65879822,-117.83000179999999,2457
+7121,VIS,Visalia Municipal Airport,Visalia,United States,36.3186988831,-119.392997742,295
+7122,MCE,Merced Regional Macready Field,Merced,United States,37.28469849,-120.5139999,155
+7126,\N,Phoenix Goodyear Airport,Goodyear,United States,33.4225006104,-112.375999451,968
+7135,AGN,Angoon Seaplane Base,Angoon,United States,57.503601,-134.58500700000002,0
+7136,ELV,Elfin Cove Seaplane Base,Elfin Cove,United States,58.1952018738,-136.347000122,0
+7140,FNR,Funter Bay Seaplane Base,Funter Bay,United States,58.2543983459,-134.897994995,0
+7142,HNH,Hoonah Airport,Hoonah,United States,58.0961,-135.410111,19
+7143,AFE,Kake Airport,Kake,United States,56.9613990784,-133.910003662,172
+7146,MTM,Metlakatla Seaplane Base,Metakatla,United States,55.13100051879883,-131.5780029296875,0
+7148,HYG,Hydaburg Seaplane Base,Hydaburg,United States,55.206298828125,-132.8280029296875,0
+7154,EGX,Egegik Airport,Egegik,United States,58.1855010986,-157.375,92
+7157,KPV,Perryville Airport,Perryville,United States,55.905998,-159.162993,29
+7158,PIP,Pilot Point Airport,Pilot Point,United States,57.5803985596,-157.572006226,57
+7159,WSN,South Naknek Nr 2 Airport,South Naknek,United States,58.7033996582,-157.007995605,162
+7160,AKK,Akhiok Airport,Akhiok,United States,56.9387016296,-154.182998657,44
+7161,KYK,Karluk Airport,Karluk,United States,57.5671005249,-154.449996948,137
+7162,KLN,Larsen Bay Airport,Larsen Bay,United States,57.535099029499996,-153.977996826,87
+7177,ABL,Ambler Airport,Ambler,United States,67.106300354,-157.85699462899998,334
+7178,BKC,Buckland Airport,Buckland,United States,65.9815979004,-161.149002075,31
+7179,IAN,Bob Baker Memorial Airport,Kiana,United States,66.9759979248,-160.43699646,166
+7180,OBU,Kobuk Airport,Kobuk,United States,66.9123001099,-156.897003174,137
+7181,ORV,Robert (Bob) Curtis Memorial Airport,Noorvik,United States,66.81790161,-161.01899719999997,55
+7182,WLK,Selawik Airport,Selawik,United States,66.60009766,-159.98599240000001,17
+7183,KTS,Brevig Mission Airport,Brevig Mission,United States,65.3312988281,-166.46600341799999,38
+7184,ELI,Elim Airport,Elim,United States,64.61470032,-162.2720032,162
+7185,GLV,Golovin Airport,Golovin,United States,64.5504989624,-163.007003784,59
+7186,TLA,Teller Airport,Teller,United States,65.2404022217,-166.339004517,294
+7187,WAA,Wales Airport,Wales,United States,65.62259300000001,-168.095,22
+7188,WMO,White Mountain Airport,White Mountain,United States,64.689201355,-163.412994385,267
+7190,KKA,Koyuk Alfred Adams Airport,Koyuk,United States,64.9394989014,-161.154006958,154
+7191,SMK,St Michael Airport,St. Michael,United States,63.49010086,-162.1100006,98
+7192,SKK,Shaktoolik Airport,Shaktoolik,United States,64.37110138,-161.223999,24
+7194,TNC,Tin City Long Range Radar Station Airport,Tin City,United States,65.56310272,-167.9219971,271
+7195,AKB,Atka Airport,Atka,United States,52.22029877,-174.2059937,57
+7198,CYT,Yakataga Airport,Yakataga,United States,60.0820007324,-142.492996216,12
+7199,AUK,Alakanuk Airport,Alakanuk,United States,62.6800422668,-164.65992736799998,10
+7201,KPN,Kipnuk Airport,Kipnuk,United States,59.9329986572,-164.031005859,11
+7202,KFP,False Pass Airport,False Pass,United States,54.8474006652832,-163.41000366210938,20
+7203,NLG,Nelson Lagoon Airport,Nelson Lagoon,United States,56.007499694824,-161.16000366211,14
+7204,PML,Port Moller Airport,Cold Bay,United States,56.0060005188,-160.561004639,20
+7205,KLW,Klawock Airport,Klawock,United States,55.5792007446,-133.076004028,80
+7206,KWN,Quinhagak Airport,Quinhagak,United States,59.75510025,-161.84500119999998,42
+7207,KOT,Kotlik Airport,Kotlik,United States,63.030601501499994,-163.533004761,15
+7208,KYU,Koyukuk Airport,Koyukuk,United States,64.8760986328,-157.727005005,149
+7209,SCM,Scammon Bay Airport,Scammon Bay,United States,61.84529876710001,-165.570999146,14
+7210,NNL,Nondalton Airport,Nondalton,United States,59.980201721190994,-154.8390045166,314
+7213,KKH,Kongiganak Airport,Kongiganak,United States,59.9608001709,-162.88099670399998,30
+7214,NIB,Nikolai Airport,Nikolai,United States,63.01860046386719,-154.35800170898438,441
+7217,AKI,Akiak Airport,Akiak,United States,60.9029006958,-161.231002808,30
+7220,AIN,Wainwright Airport,Wainwright,United States,70.6380004883,-159.994995117,41
+7233,NCN,Chenega Bay Airport,Chenega,United States,60.0773010254,-147.992004395,72
+7235,TKJ,Tok Junction Airport,Tok,United States,63.32949829,-142.9539948,1639
+7236,IRC,Circle City /New/ Airport,Circle,United States,65.83049799999999,-144.076008,613
+7240,SLQ,Sleetmute Airport,Sleetmute,United States,61.7005004883,-157.166000366,190
+7242,HKB,Healy River Airport,Healy,United States,63.8661994934082,-148.968994140625,1263
+7244,AQC,Klawock Seaplane Base,Klawock,United States,55.5546989440918,-133.10200500488278,0
+7245,MHM,Minchumina Airport,Lake Minchumina,United States,63.88600158691406,-152.302001953125,678
+7246,MLY,Manley Hot Springs Airport,Manley Hot Springs,United States,64.99759674069999,-150.643997192,270
+7415,MRB,Eastern WV Regional Airport/Shepherd Field,Martinsburg,United States,39.40190125,-77.98459625,565
+7494,RKH,Rock Hill - York County Airport,Rock Hill,United States,34.9878006,-81.05719757,666
+7495,AGC,Allegheny County Airport,Pittsburgh,United States,40.354400634765625,-79.9301986694336,1252
+7496,\N,Cecil Airport,Jacksonville,United States,30.2187004089,-81.876701355,81
+7497,FTY,Fulton County Airport Brown Field,Atlanta,United States,33.7790985107,-84.5214004517,841
+7511,OSU,Ohio State University Airport,Columbus,United States,40.0797996521,-83.072998046875,905
+7513,ADS,Addison Airport,Addison,United States,32.9686012268,-96.8364028931,644
+7514,DTS,Destin Executive Airport,Destin,United States,30.40010071,-86.47149658,23
+7522,ISO,Kinston Regional Jetport At Stallings Field,Kinston,United States,35.331401825,-77.60880279540002,93
+7523,FFA,First Flight Airport,Kill Devil Hills,United States,36.0181999207,-75.67130279540002,13
+7579,PVU,Provo Municipal Airport,Provo,United States,40.219200134277,-111.72299957275,4497
+7580,SBS,Steamboat Springs Bob Adams Field,Steamboat Springs,United States,40.5163002,-106.8659973,6882
+7581,DTA,Delta Municipal Airport,Delta,United States,39.3805999756,-112.508003235,4759
+7582,RIF,Richfield Municipal Airport,Richfield,United States,38.73640060424805,-112.0989990234375,5301
+7583,PUC,Carbon County Regional/Buck Davis Field,Price,United States,39.61389923,-110.7509995,5957
+7584,LAM,Los Alamos Airport,Los Alamos,United States,35.8797988892,-106.26899719200001,7171
+7586,HII,Lake Havasu City Airport,Lake Havasu City,United States,34.571098,-114.358002,783
+7587,INW,Winslow Lindbergh Regional Airport,Winslow,United States,35.021900177,-110.722999573,4941
+7588,DGL,Douglas Municipal Airport,Douglas,United States,31.3425998688,-109.505996704,4173
+7621,BOW,Bartow Municipal Airport,Bartow,United States,27.943399429299998,-81.78340148930002,125
+7629,LVK,Livermore Municipal Airport,Livermore,United States,37.6934013367,-121.819999695,400
+7630,RMY,Mariposa Yosemite Airport,Mariposa,United States,37.510898590100005,-120.040000916,2254
+7646,TRM,Jacqueline Cochran Regional Airport,Palm Springs,United States,33.62670135498,-116.16000366211,-115
+7647,SMO,Santa Monica Municipal Airport,Santa Monica,United States,34.015800476100004,-118.45099639899999,177
+7648,UDD,Bermuda Dunes Airport,Palm Springs,United States,33.748401641846,-116.27500152588001,73
+7649,ZSY,Scottsdale Airport,Scottsdale,United States,33.622898101806996,-111.91100311279,1510
+7650,OLM,Olympia Regional Airport,Olympia,United States,46.9693985,-122.90299990000001,209
+7651,DWA,Yolo County Davis Woodland Winters Airport,Davis-Woodland-Winters,United States,38.57910156,-121.8570023,100
+7652,RIL,Garfield County Regional Airport,Rifle,United States,39.52629852,-107.72699740000002,5548
+7653,SAA,Shively Field,SARATOGA,United States,41.44490051269531,-106.8239974975586,7012
+7654,PDK,DeKalb Peachtree Airport,Atlanta,United States,33.8755989075,-84.3020019531,1003
+7655,BMG,Monroe County Airport,Bloomington,United States,39.14599990844727,-86.61669921875,846
+7656,SUA,Witham Field,Stuart,United States,27.18169975,-80.22109985,16
+7657,MMU,Morristown Municipal Airport,Morristown,United States,40.799400329589844,-74.41490173339844,187
+7658,APC,Napa County Airport,Napa,United States,38.2132,-122.280998,35
+7659,SDM,Brown Field Municipal Airport,San Diego,United States,32.572299957275,-116.98000335693001,526
+7662,VNC,Venice Municipal Airport,Venice,United States,27.071599960327,-82.440299987793,18
+7663,PHK,Palm Beach County Glades Airport,Pahokee,United States,26.78499985,-80.69339752,16
+7669,ECP,Northwest Florida Beaches International Airport,Panama City,United States,30.357105999999998,-85.79541400000001,69
+7670,SBD,San Bernardino International Airport,San Bernardino,United States,34.0954017639,-117.23500061,1159
+7683,SQL,San Carlos Airport,San Carlos,United States,37.511901855469,-122.25,5
+7690,RWI,Rocky Mount Wilson Regional Airport,Rocky Mount,United States,35.856300354003906,-77.89189910888672,159
+7691,\N,Whittier Airport,Whittier,United States,60.777198791503906,-148.7220001220703,30
+7692,SXQ,Soldotna Airport,Soldotna,United States,60.47570037841797,-151.03399658203125,113
+7693,SEE,Gillespie Field,El Cajon,United States,32.826198577880994,-116.97200012206999,388
+7694,\N,San Clemente Island Naval Auxiliary Landing Field,San Clemente Island,United States,33.02270126,-118.58799740000002,184
+7702,TKF,Truckee Tahoe Airport,Truckee,United States,39.3199996948,-120.13999939,5900
+7712,RYY,Cobb County-Mc Collum Field,Atlanta,United States,34.01319885,-84.59860229,1040
+7716,4U9,Dell Flight Strip,Dell,United States,44.7356987,-112.720001221,6007
+7717,LVM,Mission Field,Livingston-Montana,United States,45.6994018555,-110.44799804700001,4660
+7720,6S0,Big Timber Airport,Big Timber,United States,45.80640029907226,-109.9810028076172,4492
+7721,BIV,Tulip City Airport,Holland,United States,42.742900848389,-86.10739898681601,698
+7727,\N,Monument Valley Airport,Monument Valley,United States,37.0167007446,-110.20099639899999,5192
+7732,LAL,Lakeland Linder Regional Airport,Lakeland,United States,27.988899230999998,-82.0186004639,142
+7767,IDL,Indianola Municipal Airport,New York,United States,33.485699,-90.67890200000001,126
+7769,RBK,French Valley Airport,Murrieta-Temecula,United States,33.5741996765,-117.127998352,1350
+7775,PCW,Carl R Keller Field,Port Clinton,United States,41.516300201416016,-82.86869812011719,590
+7776,MGY,Dayton-Wright Brothers Airport,Dayton,United States,39.5890007019,-84.224899292,957
+7777,RID,Richmond Municipal Airport,Richmond,United States,39.75719833374024,-84.8427963256836,1140
+7778,FDY,Findlay Airport,Findley,United States,41.013500213600004,-83.66870117190001,813
+7809,SPF,Black Hills Airport-Clyde Ice Field,Spearfish-South Dakota,United States,44.48030090332,-103.78299713135,3931
+7817,OLV,Olive Branch Airport,Olive Branch,United States,34.9786987305,-89.78690338130001,402
+7822,BJC,Rocky Mountain Metropolitan Airport,Broomfield-CO,United States,39.90879822,-105.11699679999998,5673
+7826,SLE,Salem Municipal Airport/McNary Field,Salem,United States,44.90950012,-123.00299840000002,214
+7827,UTM,Tunica Municipal Airport,Tunica,United States,34.680999755859,-90.34670257568399,194
+7839,MWC,Lawrence J Timmerman Airport,Milwaukee,United States,43.11040115356445,-88.0344009399414,745
+7840,JVL,Southern Wisconsin Regional Airport,Janesville,United States,42.620300293,-89.0416030884,808
+7846,GKY,Arlington Municipal Airport,Arlington,United States,32.66389846801758,-97.09429931640624,628
+7847,LZU,Gwinnett County Briscoe Field,Lawrenceville,United States,33.97809982,-83.96240234,1061
+7848,BWG,Bowling Green Warren County Regional Airport,Bowling Green,United States,36.9645004272,-86.41970062259999,547
+7849,RVS,Richard Lloyd Jones Jr Airport,Tulsa,United States,36.039600372314,-95.98459625244101,638
+7857,BCE,Bryce Canyon Airport,Bryce Canyon,United States,37.706401825,-112.144996643,7590
+7859,\N,Burlington Alamance Regional Airport,Burlington,United States,36.048500061035156,-79.47489929199219,617
+7869,JCI,New Century Aircenter Airport,Olathe,United States,38.830898284899995,-94.890296936,1087
+7870,ESN,Easton Newnam Field,Easton,United States,38.8041992188,-76.06900024410002,72
+7875,MYV,Yuba County Airport,Yuba City,United States,39.09780121,-121.5699997,64
+7880,DUC,Halliburton Field,Duncan,United States,34.47090149,-97.95989990000001,1114
+7885,UVA,Garner Field,Uvalde,United States,29.2112998962,-99.74359893799999,942
+7886,LOT,Lewis University Airport,Lockport,United States,41.6072998,-88.09619904,679
+7888,CCR,Buchanan Field,Concord,United States,37.9897003174,-122.056999207,26
+7889,OCA,Ocean Reef Club Airport,Ocean Reef Club Airport,United States,25.325399398804002,-80.274803161621,8
+7907,\N,Ohio University Snyder Field,Athens,United States,39.2109985352,-82.23139953610001,766
+7908,SGH,Springfield-Beckley Municipal Airport,Springfield,United States,39.840301513671996,-83.840202331543,1051
+7925,TOP,Philip Billard Municipal Airport,Topeka,United States,39.068698883056996,-95.62249755859399,881
+7928,\N,Benson Airstrip,Uvalde,United States,29.229400634765625,-99.82389831542969,929
+7929,\N,Rough River State Park Airport,Null,United States,37.610022,-86.507262,577
+7930,\N,Smyrna Airport,Smyrna,United States,36.0089988708,-86.52010345459999,543
+7931,\N,Franklin County Airport,Sewanee,United States,35.205101013184,-85.898101806641,1953
+7935,TKI,Collin County Regional At Mc Kinney Airport,DALLAS,United States,33.17789841,-96.59049988,585
+7936,PWK,Chicago Executive Airport,Chicago-Wheeling,United States,42.114222,-87.901494,647
+7938,KLS,Southwest Washington Regional Airport,Kelso,United States,46.11800003049999,-122.898002625,20
+7978,ILN,Wilmington Airpark,Wilmington,United States,39.427898407,-83.79209899899999,1077
+7979,AVW,Marana Regional Airport,Tucson,United States,32.4095993042,-111.21800231899999,2031
+7980,CGZ,Casa Grande Municipal Airport,Casa Grande,United States,32.954899,-111.766998,1464
+7981,\N,Mobile Airport,Mobile,United States,33.111900329589844,-112.2689971923828,1261
+7982,BXK,Buckeye Municipal Airport,Buckeye,United States,33.42039871,-112.685997,1033
+7983,E63,Gila Bend Municipal Airport,Gila Bend,United States,32.95809937,-112.6780014,789
+7984,MMI,McMinn County Airport,Athens,United States,35.39730072,-84.56259918,875
+7985,STK,Sterling Municipal Airport,Sterling,United States,40.61529922,-103.26499940000001,4040
+7986,RWL,Rawlins Municipal Airport/Harvey Field,Rawlins,United States,41.80559921,-107.1999969,6813
+7990,CDW,Essex County Airport,Caldwell,United States,40.875198364300005,-74.2814025879,173
+7991,AIZ,Lee C Fine Memorial Airport,Kaiser Lake Ozark,United States,38.0960006714,-92.54949951170002,869
+7998,TVI,Thomasville Regional Airport,Thomasville,United States,30.901599884032997,-83.881301879883,264
+7999,HSH,Henderson Executive Airport,Henderson,United States,35.9728012085,-115.134002686,2492
+8005,TMA,Henry Tift Myers Airport,Tifton,United States,31.429000854499996,-83.4885025024,355
+8030,DVT,Phoenix Deer Valley Airport,Phoenix ,United States,33.688301086399996,-112.083000183,1478
+8034,\N,Republic Airport,Farmingdale,United States,40.7288017273,-73.41339874270001,82
+8042,HDO,South Texas Regional Airport at Hondo,Hondo,United States,29.35950088501,-99.17669677734399,930
+8050,MCL,McKinley National Park Airport,McKinley Park,United States,63.7326011658,-148.910995483,1720
+8051,LHD,Lake Hood Seaplane Base,Anchorage,United States,61.18000030517578,-149.9720001220703,71
+8052,PPC,Prospect Creek Airport,Prospect Creek,United States,66.814102172852,-150.64399719238,1095
+8062,HLG,Wheeling Ohio County Airport,Wheeling,United States,40.1749992371,-80.6463012695,1195
+8063,FZG,Fitzgerald Municipal Airport,Fitzgerald,United States,31.68370056152344,-83.27050018310547,365
+8077,RKP,Aransas County Airport,Rockport,United States,28.086799621599997,-97.04460144040002,24
+8117,CKF,Crisp County Cordele Airport,Cordele,United States,31.98880005,-83.77390289,310
+8118,OMN,Ormond Beach Municipal Airport,Ormond Beach,United States,29.300600051879886,-81.11360168457031,29
+8121,TTD,Portland Troutdale Airport,Troutdale,United States,45.54940032959001,-122.40100097656,39
+8122,HIO,Portland Hillsboro Airport,Hillsboro,United States,45.540401,-122.949997,208
+8123,\N,One Police Plaza Heliport,New York,United States,40.71260070800781,-73.99960327148438,244
+8133,\N,Bend Municipal Airport,Bend,United States,44.09479904,-121.20099640000001,3460
+8134,\N,Christmas Valley Airport,Christmas Valley,United States,43.23649978637695,-120.66600036621094,4317
+8135,\N,Burns Municipal Airport,Burns,United States,43.5918998718,-118.955001831,4148
+8136,\N,Prineville Airport,Prineville,United States,44.286998748779,-120.90399932861,3250
+8137,\N,Red Bluff Municipal Airport,Red Bluff,United States,40.1506996155,-122.25199890100001,352
+8138,\N,Marin County Airport - Gnoss Field,Novato,United States,38.143600463867,-122.55599975586,2
+8139,\N,Lake County Airport,Lakeview,United States,42.1610984802,-120.399002075,4733
+8140,\N,Tillamook Airport,Tillamook,United States,45.4182014465,-123.81400299100001,36
+8141,\N,Ontario Municipal Airport,Ontario,United States,44.020500183105,-117.01399993896001,2193
+8142,\N,Columbia Gorge Regional the Dalles Municipal Airport,The Dalles,United States,45.618499755900004,-121.166999817,247
+8143,GAI,Montgomery County Airpark,Gaithersburg,United States,39.168300628699996,-77.1660003662,539
+8162,CVX,Charlevoix Municipal Airport,Charelvoix,United States,45.3047981262207,-85.2748031616211,669
+8182,XFL,Flagler County Airport,Flagler,United States,29.467399600000004,-81.20629883,33
+8187,MVL,Morrisville Stowe State Airport,Morrisville,United States,44.53459930419999,-72.6139984131,732
+8188,RBD,Dallas Executive Airport,Dallas,United States,32.6809005737,-96.86820220950001,660
+8194,WST,Westerly State Airport,Washington County,United States,41.3496017456,-71.80339813229999,81
+8195,BID,Block Island State Airport,Block Island,United States,41.1680984497,-71.577796936,108
+8199,NME,Nightmute Airport,Nightmute,United States,60.471000671386996,-164.70100402832,4
+8200,OOK,Toksook Bay Airport,Toksook Bay,United States,60.54140091,-165.0870056,59
+8215,BGE,Decatur County Industrial Air Park,Bainbridge,United States,30.971500399999996,-84.63739777,141
+8219,SPZ,Silver Springs Airport,Silver Springs,United States,39.40299987792969,-119.2509994506836,4269
+8220,WHP,Whiteman Airport,Los Angeles,United States,34.2593002319,-118.413002014,1003
+8221,MAE,Madera Municipal Airport,Madera,United States,36.9886016846,-120.11199951200001,255
+8252,AAF,Apalachicola Regional Airport,Apalachicola,United States,29.72750092,-85.02749634,20
+8273,DQH,Douglas Municipal Airport,Douglas,United States,31.47669982910156,-82.8604965209961,257
+8274,FRP,St Lucie County International Airport,Fort Pierce,United States,27.49510002,-80.36830139,24
+8276,TAN,Taunton Municipal King Field,Taunton,United States,41.8744010925293,-71.0166015625,43
+8277,PYM,Plymouth Municipal Airport,Plymouth,United States,41.90900039672852,-70.72879791259766,148
+8278,OQU,Quonset State Airport,North Kingstown,United States,41.597099304199,-71.412101745605,18
+8280,OWD,Norwood Memorial Airport,Norwood,United States,42.1904983521,-71.1728973389,49
+8281,BAF,Barnes Municipal Airport,Westfield,United States,42.157799,-72.715599,271
+8282,IJD,Windham Airport,Willimantic,United States,41.74399948120117,-72.1802978515625,247
+8283,MGJ,Orange County Airport,Montgomery,United States,41.50999832,-74.26460266,364
+8284,CXY,Capital City Airport,Harrisburg,United States,40.2170982361,-76.85150146480001,347
+8285,GHG,Marshfield Municipal George Harlow Field,Marshfield,United States,42.09830093383789,-70.67220306396484,11
+8286,DXR,Danbury Municipal Airport,Danbury,United States,41.3714981079,-73.48220062259999,458
+8287,ASH,Boire Field,Nashua,United States,42.781700134299996,-71.51480102539998,199
+8288,LWM,Lawrence Municipal Airport,Lawrence,United States,42.7172012329,-71.1233978271,148
+8289,OXC,Waterbury Oxford Airport,Oxford,United States,41.47859954834,-73.13520050048801,726
+8290,FIT,Fitchburg Municipal Airport,Fitchburg,United States,42.554100036621094,-71.75900268554688,348
+8291,\N,Earl L. Small Jr. Field/Stockmar Airport,Villa Rica,United States,33.756500244099996,-84.88469696039998,1110
+8292,VPC,Cartersville Airport,Cartersville,United States,34.12310028076172,-84.84870147705078,759
+8293,PYP,Centre-Piedmont-Cherokee County Regional Airport,Centre,United States,34.089977000000005,-85.610069,596
+8294,RMG,Richard B Russell Airport,Rome,United States,34.3506011963,-85.15799713130002,644
+8295,GAD,Northeast Alabama Regional Airport,Gadsden,United States,33.972599,-86.088996,569
+8296,DKX,Knoxville Downtown Island Airport,Knoxville,United States,35.96390151977539,-83.8739013671875,833
+8297,WDR,Barrow County Airport,Winder,United States,33.98289871,-83.66739655,943
+8298,JYL,Plantation Airpark,Sylvania,United States,32.645301818847656,-81.59709930419922,188
+8299,DNN,Dalton Municipal Airport,Dalton,United States,34.72290039,-84.87020111,709
+8300,CTJ,West Georgia Regional O V Gray Field,Carrollton,United States,33.63100051879883,-85.1520004272461,1161
+8302,LGC,Lagrange Callaway Airport,LaGrange,United States,33.0088996887,-85.0726013184,693
+8303,MLJ,Baldwin County Airport,Milledgeville,United States,33.15420151,-83.24069977,385
+8305,PIM,Harris County Airport,Pine Mountain,United States,32.8406982422,-84.8824005127,902
+8306,FFC,Peachtree City Falcon Field,Atlanta,United States,33.3572998046875,-84.5718002319336,808
+8308,GVL,Lee Gilmer Memorial Airport,Gainesville,United States,34.27259827,-83.8302002,1276
+8312,PHD,Harry Clever Field,New Philadelpha,United States,40.470901489258,-81.419700622559,894
+8313,UDG,Darlington County Jetport Airport,Darlington,United States,34.44940186,-79.89009857,192
+8314,HHH,Hilton Head Airport,Hilton Head Island,United States,32.2243995667,-80.6975021362,19
+8318,DNL,Daniel Field,Augusta,United States,33.4664993286,-82.0393981934,423
+8319,MRN,Foothills Regional Airport,Morganton,United States,35.8202018737793,-81.61139678955078,1270
+8320,PBX,Pike County-Hatcher Field,Pikeville,United States,37.561798100000004,-82.56639862,1473
+8321,\N,Mallards Landing Airport,Locust Grove,United States,33.36569976806641,-84.16519927978516,837
+8322,TOC,Toccoa Airport - R.G. Letourneau Field,Toccoa,United States,34.59379959,-83.29579926,996
+8342,AFW,Fort Worth Alliance Airport,Fort Worth,United States,32.9875984192,-97.3188018799,722
+8343,57C,East Troy Municipal Airport,East Troy,United States,42.79719924926758,-88.37259674072266,860
+8366,LWC,Lawrence Municipal Airport,Lawrence,United States,39.01119995,-95.21659851,833
+8367,EGT,Wellington Municipal Airport,Wellington,United States,37.32360076904297,-97.38829803466795,1277
+8379,PMP,Pompano Beach Airpark,Pompano Beach,United States,26.247100830078,-80.11109924316399,19
+8394,EET,Shelby County Airport,Alabaster,United States,33.17699814,-86.78279877,586
+8397,\N,Sky Ranch At Carefree Airport,Carefree,United States,33.818099975585945,-111.89800262451172,2568
+8409,UMP,Indianapolis Metropolitan Airport,Indianapolis,United States,39.93519974,-86.04499817,811
+8410,LOZ,London-Corbin Airport/Magee Field,London,United States,37.0821990967,-84.08489990230001,1212
+8412,FBG,Simmons Army Air Field,Fredericksburg,United States,35.13180161,-78.93669891,244
+8430,RAC,John H Batten Airport,Racine,United States,42.7606010437,-87.8152008057,674
+8443,REI,Redlands Municipal Airport,Redlands,United States,34.08530044555664,-117.14600372314452,1571
+8445,RIR,Flabob Airport,Riverside,United States,33.989700317382805,-117.41100311279295,764
+8446,TIW,Tacoma Narrows Airport,Tacoma,United States,47.26789856,-122.57800290000002,294
+8460,JKA,Jack Edwards Airport,Gulf Shores,United States,30.29050064,-87.67179871,17
+8473,HZL,Hazleton Municipal Airport,Hazleton,United States,40.9868011475,-75.99490356449999,1603
+8474,CBE,Greater Cumberland Regional Airport,Cumberland,United States,39.615398407,-78.76090240479999,775
+8475,\N,Sugar Loaf Shores Airport,Key West,United States,24.648799896240234,-81.57980346679688,4
+8493,LNR,Tri-County Regional Airport,Lone Rock,United States,43.2117004395,-90.18160247799999,717
+8494,\N,Price County Airport,Phillips,United States,45.70899963378906,-90.40249633789062,1497
+8495,\N,Monroe Municipal Airport,Monroe,United States,42.61489868164063,-89.59040069580078,1086
+8496,JOT,Joliet Regional Airport,Joliet,United States,41.51779938,-88.17549896,582
+8497,VYS,Illinois Valley Regional Airport-Walter A Duncan Field,Peru,United States,41.351898,-89.153099,654
+8499,JXN,Jackson County Reynolds Field,Jackson,United States,42.2597999573,-84.45939636230001,1001
+8502,\N,Joseph A. Hardy Connellsville Airport,Connellsville,United States,39.95920181,-79.65709686,1267
+8503,\N,Bedford County Airport,Bedford,United States,40.08530045,-78.5121994,1162
+8504,BBX,Wings Field,Philadelphia,United States,40.1375007629,-75.26509857180001,302
+8505,OBE,Okeechobee County Airport,Okeechobee,United States,27.2628002167,-80.8498001099,34
+8506,SEF,Sebring Regional Airport,Sebring,United States,27.45639992,-81.3423996,62
+8507,AVO,Avon Park Executive Airport,Avon Park,United States,27.59119987,-81.52780151,160
+8508,GIF,Winter Haven Municipal Airport - Gilbert Field,Winter Haven,United States,28.06290054,-81.75330353,145
+8509,ZPH,Zephyrhills Municipal Airport,Zephyrhills,United States,28.2282009125,-82.15589904790002,90
+8510,OCF,Ocala International Airport - Jim Taylor Field,Ocala,United States,29.17259979,-82.22419739,90
+8511,JES,Jesup Wayne County Airport,Jesup,United States,31.55400085,-81.88249969,107
+8512,52A,Madison Municipal Airport,Madison,United States,33.6120986938,-83.46040344240002,694
+8513,CCO,Newnan Coweta County Airport,Newnan,United States,33.311599731445305,-84.7697982788086,970
+8514,HQU,Thomson-McDuffie County Airport,Thomson,United States,33.52970123,-82.51650238,501
+8515,AIK,Aiken Municipal Airport,Aiken,United States,33.6493988037,-81.68499755859999,528
+8516,CDN,Woodward Field,Camden,United States,34.2835998535,-80.56490325930001,302
+8517,LBT,Lumberton Regional Airport,Lumberton,United States,34.609901428200004,-79.05940246579998,126
+8519,SOP,Moore County Airport,Pinehurst-Southern Pines,United States,35.23740005,-79.39119720000001,455
+8520,RCZ,Richmond County Airport,Rockingham,United States,34.8913,-79.759598,358
+8524,DLL,Baraboo Wisconsin Dells Airport,Baraboo,United States,43.52270126,-89.77020264,979
+8526,SVH,Statesville Regional Airport,Statesville,United States,35.765300750732,-80.953903198242,968
+8528,BUU,Burlington Municipal Airport,Burlington,United States,42.69070053100586,-88.30460357666016,779
+8532,LHV,William T. Piper Memorial Airport,Lock Haven,United States,41.13560104,-77.42230225,556
+8538,\N,Zelienople Municipal Airport,Zelienople,United States,40.80160141,-80.16069794,898
+8542,LPR,Lorain County Regional Airport,Lorain-Elyria,United States,41.34429932,-82.17759705,793
+8544,BKL,Burke Lakefront Airport,Cleveland,United States,41.51750183105469,-81.68329620361328,583
+8545,DKK,Chautauqua County-Dunkirk Airport,Dunkirk,United States,42.49330139,-79.27200317,693
+8548,VAY,South Jersey Regional Airport,Mount Holly,United States,39.9429016113,-74.845703125,53
+8550,LDJ,Linden Airport,Linden,United States,40.617401123,-74.2445983887,23
+8553,ANQ,Tri State Steuben County Airport,Angola,United States,41.639702,-85.083504,995
+8555,\N,Warsaw Municipal Airport,Warsaw,United States,41.27470016479492,-85.84010314941406,850
+8556,VNW,Van Wert County Airport,Van Wert,United States,40.86470031738281,-84.6093978881836,785
+8559,\N,Brooks Field,Marshall,United States,42.25120162963867,-84.95549774169922,941
+8560,GVQ,Genesee County Airport,Batavia,United States,43.03170013,-78.16760254,914
+8565,CLW,Clearwater Air Park,Clearwater,United States,27.9766998291,-82.7586975098,71
+8593,CGX,Chicago Meigs Airport,Chicago,United States,41.85879898071289,-87.60790252685547,593
+8601,JZP,Pickens County Airport,Jasper,United States,34.453399658203125,-84.4573974609375,1535
+8604,CRE,Grand Strand Airport,North Myrtle Beach,United States,33.811698913600004,-78.72389984130002,32
+8606,IGQ,Lansing Municipal Airport,Lansing,United States,41.5349006652832,-87.52950286865234,620
+8608,RNM,Ramona Airport,Ramona,United States,33.039199829101555,-116.91500091552734,1395
+8624,OEB,Branch County Memorial Airport,Coldwater,United States,41.933399200000004,-85.05259705,959
+8625,WBW,Wilkes Barre Wyoming Valley Airport,Wilkes-Barre,United States,41.2971992493,-75.8511962891,545
+8626,LNN,Willoughby Lost Nation Municipal Airport,Willoughby,United States,41.6839981079,-81.3897018433,626
+8631,FFT,Capital City Airport,Frankfort,United States,38.18249893,-84.90470123,806
+8632,LEW,Auburn Lewiston Municipal Airport,Lewiston,United States,44.048500061000006,-70.2835006714,288
+8639,\N,Bloyer Field,Tomah,United States,43.97499847,-90.48349762,966
+8641,MRK,Marco Island Airport,Marco Island Airport,United States,25.9950008392,-81.6725006104,5
+8644,DRM,Drummond Island Airport,Drummond Island,United States,46.0093002319,-83.74389648440001,668
+8646,GDW,Gladwin Zettel Memorial Airport,Gladwin,United States,43.9706001282,-84.47499847410002,776
+8648,LWA,South Haven Area Regional Airport,South Haven,United States,42.35120010375977,-86.25569915771484,666
+8653,MFI,Marshfield Municipal Airport,Marshfield,United States,44.6369018555,-90.1893005371,1277
+8654,ISW,Alexander Field South Wood County Airport,Wisconsin Rapids,United States,44.360298156700004,-89.83899688720001,1021
+8655,CWI,Clinton Municipal Airport,Clinton,United States,41.8311004639,-90.3291015625,708
+8658,BVY,Beverly Municipal Airport,Beverly,United States,42.5842018127,-70.91649627689999,107
+8664,POF,Poplar Bluff Municipal Airport,Poplar Bluff,United States,36.773899078369006,-90.324897766113,331
+8665,\N,Somerset Airport,Somerville,United States,40.6259994506836,-74.67019653320312,105
+8666,EPM,Eastport Municipal Airport,Eastport,United States,44.910099029541016,-67.01270294189453,45
+8667,EOK,Keokuk Municipal Airport,Keokuk,United States,40.4598999023,-91.4284973145,671
+8681,STP,St Paul Downtown Holman Field,St. Paul,United States,44.93450164794922,-93.05999755859376,705
+8693,\N,Oconomowoc Airport,Oconomowoc,United States,43.13890075683594,-88.47229766845703,885
+8706,\N,Butler Co Regional Airport - Hogan Field,Hamilton,United States,39.3638000488,-84.5220031738,633
+8742,FLD,Fond du Lac County Airport,Fond du Lac,United States,43.771198272700005,-88.48840332030001,808
+8743,PCZ,Waupaca Municipal Airport,Waupaca,United States,44.33330154,-89.01979828,840
+8744,STE,Stevens Point Municipal Airport,Stevens Point,United States,44.5452003479,-89.53029632568399,1110
+8747,ERY,Luce County Airport,Newberry,United States,46.31119918823242,-85.4572982788086,869
+8759,GQQ,Galion Municipal Airport,Galion,United States,40.7533988953,-82.7238006592,1224
+8763,CKV,Clarksville–Montgomery County Regional Airport,Clarksville,United States,36.621898651100004,-87.41500091549999,550
+8771,LPC,Lompoc Airport,Lompoc,United States,34.665599823,-120.46800231899999,88
+8772,CTH,Chester County G O Carlson Airport,Coatesville,United States,39.97900009,-75.86550140000001,660
+8777,LKP,Lake Placid Airport,Lake Placid,United States,44.264499664300004,-73.96189880370002,1747
+8784,AOH,Lima Allen County Airport,Lima,United States,40.706902,-84.026703,975
+8789,SSI,Malcolm McKinnon Airport,Brunswick,United States,31.15180016,-81.39129639,19
+8790,BFP,Beaver County Airport,Beaver Falls,United States,40.7724990845,-80.39140319820001,1253
+8792,GGE,Georgetown County Airport,Georgetown,United States,33.311698913600004,-79.3196029663,39
+8793,HDI,Hardwick Field,Cleveland,United States,35.22010040283203,-84.8323974609375,874
+8796,RNT,Renton Municipal Airport,Renton,United States,47.4930992126,-122.21600341799999,32
+8798,POC,Brackett Field,La Verne,United States,34.091598510742,-117.78199768066001,1011
+8801,CTY,Cross City Airport,Cross City,United States,29.6354999542,-83.10479736330002,42
+8802,CEU,Oconee County Regional Airport,Clemson,United States,34.67190170000001,-82.8864975,892
+8804,BEC,Beech Factory Airport,Wichita,United States,37.6944999695,-97.2149963379,1408
+8808,\N,Tom B. David Field,Calhoun,United States,34.45539856,-84.93920135,647
+8809,\N,Habersham County Airport,Cornelia,United States,34.49990082,-83.55670166,1448
+8811,GTU,Georgetown Municipal Airport,Georgetown,United States,30.678800582885746,-97.6793975830078,790
+8812,\N,Old Rhinebeck Airport,Rhinebeck,United States,41.9715004,-73.86289978,323
+8815,SNY,Sidney Municipal-Lloyd W Carr Field,Sidney,United States,41.10129929,-102.98500059999999,4313
+8824,\N,Kalaeloa Airport,Kapolei,United States,21.3074,-158.070009,30
+8833,ECA,Iosco County Airport,East Tawas,United States,44.312801,-83.422302,606
+8834,\N,Madison County Executive Airport-Tom Sharp Jr Field,Huntsville,United States,34.861400599999996,-86.55750275,756
+8835,JYO,Leesburg Executive Airport,Leesburg,United States,39.07799911499024,-77.55750274658203,389
+8838,\N,Anoka County-Blaine Arpt(Janes Field) Airport,Anoka,United States,45.14500046,-93.21140289,912
+8850,SDC,Williamson Sodus Airport,Williamson,United States,43.23469925,-77.1210022,424
+8854,WBU,Boulder Municipal Airport,Boulder,United States,40.039398193400004,-105.225997925,5288
+8864,PAO,Palo Alto Airport of Santa Clara County,Palo Alto,United States,37.461101532,-122.114997864,4
+8869,FFZ,Falcon Field,Mesa,United States,33.4608001709,-111.72799682600001,1394
+8870,P08,Coolidge Municipal Airport,Cooldige,United States,32.935901641845696,-111.427001953125,1574
+8871,P52,Cottonwood Airport,Cottonwood,United States,34.7299995422,-112.03500366200001,3550
+8874,A39,Ak-Chin Regional Airport,Phoenix,United States,32.9908056,-111.91852779999999,1300
+8875,E25,Wickenburg Municipal Airport,Wickenburg,United States,33.96889877,-112.79900359999999,2377
+8877,PTK,Oakland County International Airport,Pontiac,United States,42.665500640869006,-83.420097351074,980
+8888,EEN,Dillant Hopkins Airport,Keene,United States,42.898399353027344,-72.27079772949219,488
+8893,\N,Glasgow Industrial Airport,Glasgow,United States,48.42110061645508,-106.52799987792969,2762
+8925,IOW,Iowa City Municipal Airport,Iowa City,United States,41.639198303200004,-91.5465011597,668
+8928,MWM,Windom Municipal Airport,Windom,United States,43.91339874267578,-95.1093978881836,1410
+8931,\N,Longview Ranch Airport,Longview,United States,44.66170120239258,-119.6520004272461,2080
+8935,ANP,Lee Airport,Annapolis,United States,38.942902000000004,-76.568398,34
+8950,PEQ,Pecos Municipal Airport,Pecos,United States,31.382400512694996,-103.51100158691,2613
+8951,HBG,Hattiesburg Bobby L Chain Municipal Airport,Hattiesburg,United States,31.26479912,-89.25279999,151
+8958,YKN,Chan Gurney Municipal Airport,Yankton,United States,42.916698455811,-97.385902404785,1306
+8982,HWD,Hayward Executive Airport,Hayward,United States,37.659198761,-122.122001648,52
+8989,ARB,Ann Arbor Municipal Airport,Ann Arbor,United States,42.2229995728,-83.74559783939999,839
+9066,4A7,Atlanta South Regional Airport/Tara Field,Hampton,United States,33.389099,-84.332397,874
+9093,\N,Comarapa Airport,Salt Lake City,United States,-17.91360092163086,-64.51779937744139,6186
+9102,IMM,Immokalee Regional Airport,Immokalee ,United States,26.43320084,-81.40100098,37
+9104,\N,Rancho San Simeon Airport,Cambria,United States,35.60770034790039,-121.11000061035156,320
+9120,PTB,Dinwiddie County Airport,Petersburg,United States,37.183799743652,-77.507400512695,193
+9126,SBM,Sheboygan County Memorial Airport,Sheboygan,United States,43.76959991,-87.85140228,755
+9138,MZJ,Pinal Airpark,Marana,United States,32.5106010437,-111.32800293,1893
+9139,GEU,Glendale Municipal Airport,Glendale,United States,33.526901245117195,-112.29499816894531,1071
+9140,SAD,Safford Regional Airport,Safford,United States,32.85480118,-109.6350021,3179
+9164,SIK,Sikeston Memorial Municipal Airport,Sikeston,United States,36.898899078369006,-89.561798095703,315
+9178,GFL,Floyd Bennett Memorial Airport,Queensbury,United States,43.3412017822,-73.6102981567,328
+9179,5B2,Saratoga County Airport,Ballston Spa,United States,43.05130005,-73.86119843,434
+9182,CGC,Crystal River Airport,Crystal River,United States,28.867300033569336,-82.57129669189453,9
+9183,MTN,Martin State Airport,Baltimore,United States,39.32569885,-76.4138031,21
+9184,LHM,Lincoln Regional Karl Harder Field,Lincoln,United States,38.90919876098633,-121.35099792480469,121
+9185,FZI,Fostoria Metropolitan Airport,Fostoria,United States,41.19079971,-83.39450073,752
+9186,IZG,Eastern Slopes Regional Airport,Fryeburg,United States,43.9911003113,-70.94789886470001,454
+9187,\N,Coral Creek Airport,Placida,United States,26.85449981689453,-82.2511978149414,4
+9188,NEW,Lakefront Airport,New Orleans,United States,30.042400360107003,-90.02829742431601,8
+9189,COE,Coeur D'Alene - Pappy Boyington Field,Coeur d'Alene,United States,47.77429962,-116.8199997,2320
+9190,BMT,Beaumont Municipal Airport,Beaumont,United States,30.070699691799998,-94.21579742430002,32
+9191,DNV,Vermilion Regional Airport,Danville,United States,40.19919968,-87.59590149,697
+9199,TIX,Space Coast Regional Airport,Titusville,United States,28.514799118042003,-80.799201965332,34
+9225,AAP,Andrau Airpark,Houston,United States,29.722499847399998,-95.5883026123,79
+9226,FCM,Flying Cloud Airport,Eden Prairie,United States,44.827201843299996,-93.4570999146,906
+9228,OJC,Johnson County Executive Airport,Olathe,United States,38.84759903,-94.73760223,1096
+9249,OQN,Brandywine Airport,West Goshen Township,United States,39.9901008605957,-75.58190155029297,466
+9251,MNZ,Manassas Regional Airport/Harry P. Davis Field,Manassas,United States,38.72140121,-77.51540375,192
+9252,\N,Texas Gulf Coast Regional Airport,Angleton,United States,29.108600616500002,-95.46209716799999,25
+9305,2H0,Shelby County Airport,Shelbyville,United States,39.410400390599996,-88.8453979492,618
+9348,\N,Enumclaw Airport,Enumclaw,United States,47.195701599121094,-122.02200317382812,738
+9390,FDW,Fairfield County Airport,Winnsboro,United States,34.31549835205078,-81.10880279541016,577
+9396,DAW,Skyhaven Airport,Rochester,United States,43.28409957885742,-70.9292984008789,322
+9399,EWK,Newton City-County Airport,Newton,United States,38.0582008362,-97.2744979858,1533
+9403,TZR,Taszár Air Base,Columbus,United States,46.39310073852539,17.917499542236328,531
+9406,FBR,Fort Bridger Airport,Fort Bridger,United States,41.3918991089,-110.40699768100001,7034
+9407,S40,Prosser Airport,Prosser,United States,46.21340179,-119.7910004,697
+9408,CLS,Chehalis Centralia Airport,Chehalis,United States,46.6769981384,-122.98300170899999,176
+9409,M94,Desert Aire Airport,Mattawa,United States,46.687400817871094,-119.9209976196289,586
+9411,EVW,Evanston-Uinta County Airport-Burns Field,Evanston,United States,41.27479935,-111.0350037,7143
+9412,K83,Sabetha Municipal Airport,Sabetha,United States,39.90420150756836,-95.77940368652344,1330
+9413,LRO,Mt Pleasant Regional-Faison field,Mount Pleasant,United States,32.89780045,-79.78289795,12
+9414,\N,Souther Field,Americus,United States,32.110801699999996,-84.18890381,468
+9415,EUF,Weedon Field,Eufala,United States,31.951299667399997,-85.1288986206,285
+9416,6J4,Saluda County Airport,Saluda,United States,33.92679977416992,-81.79460144042969,555
+9417,MEO,Dare County Regional Airport,Manteo,United States,35.91899872,-75.69550323,13
+9418,AUO,Auburn Opelika Robert G. Pitts Airport,Auburn,United States,32.61510086,-85.43399811,777
+9419,CZG,Tri Cities Airport,Endicott,United States,42.078499,-76.096296,833
+9428,EKY,Bessemer Airport,Bessemer,United States,33.31290054,-86.92590332,700
+9429,A50,Colorado Springs East Airport,Ellicott,United States,38.8744010925293,-104.41000366210938,6145
+9447,MIC,Crystal Airport,Crystal,United States,45.0620002746582,-93.35389709472656,869
+9448,23M,Clarke County Airport,Quitman,United States,32.0848999023,-88.738899231,320
+9450,DBN,W H 'Bud' Barron Airport,Dublin,United States,32.56439972,-82.98529816,309
+9488,CVO,Corvallis Municipal Airport,Corvallis,United States,44.49720001,-123.29000090000001,250
+9500,\N,El Almendro Airport,Scranton,United States,-35.96055603027344,-71.7933349609375,486
+9511,\N,San Agustin Airport,Morristown,United States,10.06666660308838,-84.88333129882812,66
+9533,CWT,Cowra Airport,Chatsworth,United States,-33.84469985961914,148.6490020751953,966
+9543,OGD,Ogden Hinckley Airport,Ogden,United States,41.195899963379,-112.0120010376,4473
+9545,RKR,Robert S Kerr Airport,Poteau,United States,35.02159881591797,-94.62129974365234,451
+9546,AKO,Colorado Plains Regional Airport,Akron,United States,40.1755981445,-103.22200012200001,4714
+9547,SHN,Sanderson Field,Shelton,United States,47.233600616455,-123.14800262451,273
+9739,WNA,Napakiak Airport,Napakiak,United States,60.69029998779297,-161.97900390625,17
+9744,PKA,Napaskiak Airport,Napaskiak,United States,60.70289993,-161.7779999,24
+9746,\N,Tok Airport,Tok,United States,63.303332999999995,-143.001111,1670
+9754,2A5,Causey Airport,Liberty,United States,35.911800384521484,-79.61759948730469,723
+9763,DYL,Doylestown Airport,Doylestown,United States,40.3330001831,-75.1222991943,394
+9772,OCW,Warren Field,Washington,United States,35.570499420166,-77.049797058105,38
+9773,7W6,Hyde County Airport,Engelhard,United States,35.562400817871094,-75.9552001953125,8
+9776,\N,Stillwater Regional Airport,Stillwater,United States,36.161201477051,-97.08570098876999,1000
+9777,\N,Okmulgee Regional Airport,Okmulgee,United States,35.668098449706996,-95.948699951172,720
+9778,\N,Cushing Municipal Airport,Cushing,United States,35.9499015808,-96.7731018066,916
+9779,\N,Clinton Sherman Airport,Clinton,United States,35.3398017883,-99.2005004883,1922
+9780,\N,Strother Field,Winfield,United States,37.168598175,-97.0375976562,1160
+9781,\N,Wiley Post Airport,Oklahoma City,United States,35.53419876,-97.64710236,1300
+9782,\N,Shreveport Downtown Airport,Shreveport,United States,32.5401992798,-93.7450027466,179
+9783,\N,Stephenville Clark Regional Airport,Stephenville,United States,32.215301513671996,-98.177696228027,1321
+9784,\N,Perry Municipal Airport,Perry,United States,36.38560104370117,-97.2771987915039,1002
+9786,\N,Hamilton Municipal Airport,Hamilton,United States,31.6658992767334,-98.14859771728516,1299
+9787,\N,Ada Municipal Airport,Ada,United States,34.8042984009,-96.67130279540001,1016
+9788,\N,Mesquite Metro Airport,Misquite,United States,32.74700164794922,-96.53040313720705,447
+9789,\N,Denton Municipal Airport,Denton,United States,33.2006988525,-97.19799804690001,642
+9790,\N,Austin Executive Airport,Austin,United States,30.397493100000005,-97.5663935,620
+9791,\N,Lago Vista Tx Rusty Allen Airport,Lago Vista,United States,30.49860000610352,-97.96949768066406,1231
+9792,\N,Brenham Municipal Airport,Brenham,United States,30.21899986,-96.37429809999999,307
+9793,\N,Lakeway Airpark,Lakeway,United States,30.357500076293945,-97.99449920654295,909
+9794,\N,Iraan Municipal Airport,Iraan,United States,30.905700683600003,-101.89199829100001,2200
+9795,\N,Kestrel Airpark,San Antonio,United States,29.812700271606445,-98.42530059814452,1250
+9797,UKF,Wilkes County Airport,North Wilkesboro,United States,36.2228012085,-81.09829711910002,1301
+9798,JZI,Charleston Executive Airport,Charleston,United States,32.70090103149414,-80.00289916992188,17
+9799,DAN,Danville Regional Airport,Danville,United States,36.572898864746094,-79.33609771728516,571
+9800,0V4,Brookneal/Campbell County Airport,Brookneal,United States,37.1417007446,-79.01640319820001,596
+9806,CQW,Cheraw Municipal Airport/Lynch Bellinger Field,Cheraw,United States,34.71289825,-79.95700073,239
+9808,\N,Wauchula Municipal Airport,Wuchula,United States,27.514900207520004,-81.880500793457,106
+9847,HYW,Conway Horry County Airport,Conway,United States,33.82849884,-79.12220001,35
+9938,HBI,Asheboro Regional Airport,Asheboro,United States,35.65449905,-79.8946991,671
+9942,\N,Henderson Field,Wallace,United States,34.71789932250977,-78.00360107421875,39
+9943,EMV,Emporia Greensville Regional Airport,Emporia,United States,36.6869010925293,-77.48280334472656,127
+10017,EMT,El Monte Airport,El Monte,United States,34.086101532,-118.03500366200001,296
+10062,I16,Kee Field,Pineville,United States,37.600399017333984,-81.5593032836914,1783
+10102,SSF,Stinson Municipal Airport,Stinson,United States,29.336999893188,-98.47109985351601,577
+10103,JSV,Sallisaw Municipal Airport,Sallisaw,United States,35.438201899999996,-94.80280304,527
+10104,JAS,Jasper County Airport-Bell Field,Jasper,United States,30.88570023,-94.03489685,213
+10105,87K,El Dorado Springs Memorial Airport,El dorado springs,United States,37.8567008972168,-93.99909973144531,931
+10106,MRF,Marfa Municipal Airport,Marfa,United States,30.371098999999997,-104.017997,4849
+10107,E38,Alpine Casparis Municipal Airport,Alpine,United States,30.3841991425,-103.683998108,4515
+10117,CCB,Cable Airport,Upland,United States,34.1115989685,-117.68800354,1444
+10121,IOB,Mount Sterling Montgomery County Airport,Mount Sterling,United States,38.05810165,-83.979599,1019
+10122,EKI,Elkhart Municipal Airport,Elkhart,United States,41.7193984985,-86.00319671630001,778
+10123,C03,Nappanee Municipal Airport,Nappanee ,United States,41.44620132446289,-85.93479919433594,860
+10128,CUB,Jim Hamilton L.B. Owens Airport,Columbia,United States,33.970500946,-80.9952011108,193
+10129,GMJ,Grove Municipal Airport,Grove,United States,36.60680008,-94.73860168,831
+10130,MPR,Mc Pherson Airport,Mc Pherson,United States,38.35240173,-97.69129944,1498
+10131,GYH,Donaldson Center Airport,Greenville,United States,34.7583007812,-82.3764038086,955
+10132,PXE,Perry Houston County Airport,Perry,United States,32.51060104370117,-83.76730346679688,418
+10133,HVS,Hartsville Regional Airport,Hartsville,United States,34.403099060100004,-80.11920166019999,364
+10134,IGX,Horace Williams Airport,Chapel Hill,United States,35.935001,-79.06590200000001,512
+10138,SUT,Brunswick County Airport,Oak Island,United States,33.9292984,-78.07499695,24
+10139,FCI,Chesterfield County Airport,Richmond,United States,37.40650177,-77.52500153,236
+10144,HNZ,Henderson Oxford Airport,Oxford,United States,36.36159897,-78.52919769,526
+10145,LEE,Leesburg International Airport,Leesburg,United States,28.82309914,-81.80870056,76
+10162,CNO,Chino Airport,Chino,United States,33.97470093,-117.637001,650
+10169,UYF,Madison County Airport,London,United States,39.93270111,-83.46199799,1082
+10185,PRB,Paso Robles Municipal Airport,Paso Robles,United States,35.67290115,-120.6269989,840
+10360,HAF,Half Moon Bay Airport,Half Moon Bay,United States,37.5134010315,-122.500999451,66
+10371,WJF,General WM J Fox Airfield,Lancaster,United States,34.74110031,-118.21900179999999,2351
+10831,TDF,Person County Airport,Roxboro,United States,36.28490067,-78.98419952,609
+11004,ASN,Talladega Municipal Airport,Talladega,United States,33.569900512699995,-86.05090332030001,529
+11005,GMU,Greenville Downtown Airport,Greenville,United States,34.847900390599996,-82.34999847410002,1048
+11008,MKT,Mankato Regional Airport,Mankato,United States,44.22159958,-93.91870117,1021
+11010,TOI,Troy Municipal Airport,Troy,United States,31.860399246216,-86.012100219727,398
+11011,SCD,Merkel Field Sylacauga Municipal Airport,Sylacauga,United States,33.171798706054695,-86.30549621582031,569
+11012,EDN,Enterprise Municipal Airport,Enterprise,United States,31.29969978,-85.89990234,361
+11017,\N,Ryan Field,Tucson,United States,32.142200469970696,-111.1750030517578,2417
+11022,ALX,Thomas C Russell Field,Alexander City,United States,32.914699554399995,-85.96299743649999,686
+11035,\N,Meriden Markham Municipal Airport,Meriden,United States,41.50870132446289,-72.82949829101562,103
+11067,\N,Ridgely Airpark,Ridgely,United States,38.97010040283203,-75.86630249023438,64
+11068,UWL,New Castle Henry Co. Municipal Airport,New Castle,United States,39.87590027,-85.32649994,1088
+11069,TQK,Scott City Municipal Airport,Scott City,United States,38.47430038452149,-100.88500213623048,2963
+11070,HDE,Brewster Field,Holdredge,United States,40.452099,-99.336502,2313
+11071,PTT,Pratt Regional Airport,Pratt,United States,37.70159912,-98.74690247,1953
+11073,AHQ,Wahoo Municipal Airport,Wahoo,United States,41.241298675500005,-96.59400177,1224
+11074,LXN,Jim Kelly Field,Lexington,United States,40.7910003662,-99.7772979736,2413
+11075,19S,Sublette Municipal Airport,Sublette,United States,37.49140167,-100.83000179999999,2908
+11076,CBF,Council Bluffs Municipal Airport,Council Bluffs,United States,41.2592010498,-95.760597229,1253
+11077,OKK,Kokomo Municipal Airport,Kokomo,United States,40.528198242188,-86.05899810791,830
+11078,2K7,Neodesha Municipal Airport,Neodesha,United States,37.43539810180664,-95.64610290527344,841
+11079,\N,King Ranch Airport,Sutton,United States,61.79560089111328,-148.35499572753906,1350
+11080,EHA,Elkhart Morton County Airport,Elkhart,United States,37.000702000000004,-101.879997,3622
+11081,FTG,Front Range Airport,Denver,United States,39.785301208496094,-104.54299926757812,5512
+11082,GBG,Galesburg Municipal Airport,Galesburg,United States,40.9379997253,-90.43109893799999,764
+11084,GUY,Guymon Municipal Airport,Guymon,United States,36.6851005554,-101.508003235,3123
+11086,MEJ,Meade Municipal Airport,Meade,United States,37.27690124511719,-100.3560028076172,2529
+11087,\N,Turkey Mountain Estates Airport,Shell Knob,United States,36.59170150756836,-93.66690063476562,1000
+11088,ULS,Ulysses Airport,Ulysses,United States,37.60400009,-101.3740005,3071
+11089,\N,Flagler Aerial Spraying Inc Airport,Flagler,United States,39.27999877929688,-103.06700134277344,4945
+11090,IDP,Independence Municipal Airport,Independence,United States,37.1584014893,-95.7783966064,825
+11091,3AU,Augusta Municipal Airport,Augusta,United States,37.67160034179688,-97.0779037475586,1328
+11092,LQR,Larned Pawnee County Airport,Larned,United States,38.20859909,-99.08599854,2012
+11093,LZZ,Lampasas Airport,Lampasas,United States,31.10619926452637,-98.1958999633789,1215
+11094,BYY,Bay City Municipal Airport,Bay City,United States,28.9733009338,-95.8635025024,45
+11095,PRX,Cox Field,Paris,United States,33.636600494385,-95.45079803466801,547
+11096,CFV,Coffeyville Municipal Airport,Coffeyville,United States,37.09400177,-95.5718994141,754
+11097,\N,The Farm Airport,Summit,United States,33.93579864501953,-81.42970275878906,580
+11098,GXY,Greeley–Weld County Airport,Greeley,United States,40.4374008179,-104.633003235,4697
+11099,\N,General Dewitt Spain Airport,Memphis,United States,35.20069885,-90.05400085,225
+11100,OEL,Oryol Yuzhny Airport,Oakley,United States,52.934700012200004,36.002201080300004,656
+11101,FET,Fremont Municipal Airport,Fremont,United States,41.44910049,-96.52020264,1204
+11102,LGD,La Grande/Union County Airport,La Grande,United States,45.29019927979999,-118.00700378399999,2717
+11110,MPO,Pocono Mountains Municipal Airport,Mount Pocono,United States,41.13750076,-75.37889862,1915
+11111,UKT,Quakertown Airport,Quakertown,United States,40.435199737549,-75.38189697265601,526
+11131,BNG,Banning Municipal Airport,Banning,United States,33.923099517800004,-116.850997925,2219
+11134,OFK,Karl Stefan Memorial Airport,Norfolk  Nebraska,United States,41.985500335693004,-97.435096740723,1573
+11141,AWO,Arlington Municipal Airport,Arlington,United States,48.16070175,-122.1589966,142
+11153,TPF,Peter O Knight Airport,Tampa,United States,27.915599822998,-82.44930267334,8
+11243,MTP,Montauk Airport,Montauk,United States,41.07649993896485,-71.9207992553711,6
+11255,VPZ,Porter County Municipal Airport,Valparaiso IN,United States,41.45399857,-87.00710297,770
+11299,LDM,Mason County Airport,Ludington,United States,43.96250153,-86.40789795,646
+11312,RHV,Reid-Hillview Airport of Santa Clara County,San Jose,United States,37.332901000999996,-121.819000244,135
+11438,\N,Camarillo Airport,Camarillo - CA,United States,34.213699340820305,-119.09400177001952,77
+11638,WVI,Watsonville Municipal Airport,Watsonville,United States,36.9356994629,-121.790000916,163
+11649,JGG,Williamsburg Jamestown Airport,Williamsburg,United States,37.239200592041016,-76.71610260009766,49
+11742,MRT,Union County Airport,Marysville,United States,40.224700927734375,-83.35160064697266,1021
+11814,ALN,St Louis Regional Airport,Alton/St Louis,United States,38.89030075069999,-90.04599761959999,544
+11815,AXN,Chandler Field,Alexandria,United States,45.866298675500005,-95.3946990967,1425
+11816,CLU,Columbus Municipal Airport,Columbus,United States,39.2619018555,-85.8963012695,656
+11817,BBD,Curtis Field,Brady,United States,31.179300308200002,-99.32389831540002,1827
+11818,BIH,Eastern Sierra Regional Airport,Bishop,United States,37.373100280799996,-118.36399841299999,4124
+11819,BKE,Baker City Municipal Airport,Baker City,United States,44.8372993469,-117.808998108,3373
+11820,BPI,Miley Memorial Field,Big Piney,United States,42.58509827,-110.1110001,6990
+11821,WMH,Ozark Regional Airport,Mountain Home,United States,36.3689002991,-92.4704971313,928
+11822,BTL,W K Kellogg Airport,Battle Creek,United States,42.3073005676,-85.25150299069999,952
+11823,BYI,Burley Municipal Airport,Burley,United States,42.5425987244,-113.77200317399999,4150
+11824,CCY,Northeast Iowa Regional Airport,Charles City,United States,43.072601318400004,-92.61080169680001,1125
+11825,CNU,Chanute Martin Johnson Airport,Chanute,United States,37.668800354,-95.4850997925,1002
+11826,CRG,Jacksonville Executive at Craig Airport,Jacksonville,United States,30.3362998962,-81.51439666750002,41
+11827,CSV,Crossville Memorial Whitson Field,Crossville,United States,35.9513015747,-85.08499908450001,1881
+11828,DAA,Davison Army Air Field,Fort Belvoir,United States,38.715000152600005,-77.1809997559,73
+11829,DAG,Barstow Daggett Airport,Daggett,United States,34.85369873,-116.78700259999998,1930
+11830,DMN,Deming Municipal Airport,Deming,United States,32.262298584,-107.721000671,4314
+11831,DRA,Desert Rock Airport,Mercury,United States,36.6194,-116.032997,3314
+11832,EED,Needles Airport,Needles,United States,34.7663002014,-114.62300109899999,983
+11833,EGI,Duke Field,Crestview,United States,30.65040016,-86.52290344,191
+11834,EKA,Murray Field,Eureka,United States,40.8033981323,-124.112998962,7
+11835,HYI,San Marcos Municipal Airport,San Marcos,United States,29.8927001953125,-97.86299896240234,597
+11836,HYR,Sawyer County Airport,Hayward,United States,46.02519989010001,-91.44429779050002,1216
+11837,JCT,Kimble County Airport,Junction,United States,30.5112991333,-99.76349639889999,1749
+11838,LLQ,Monticello Municipal Ellis Field,Monticello,United States,33.638599400000004,-91.75099945,270
+11839,LOL,Derby Field,Lovelock,United States,40.0663986206,-118.565002441,3904
+11840,MBG,Mobridge Municipal Airport,Mobridge,United States,45.54650116,-100.40799709999999,1716
+11841,MCB,Mc Comb/Pike County Airport/John E Lewis Field,Mc Comb,United States,31.17849922,-90.47190094,413
+11842,MDH,Southern Illinois Airport,Carbondale/Murphysboro,United States,37.778099060058594,-89.25199890136719,411
+11843,MMT,Mc Entire Joint National Guard Base,Eastover,United States,33.92079926,-80.80130005,254
+11844,NHZ,Brunswick Executive Airport,Brunswick,United States,43.89220047,-69.93859863,72
+11845,NRB,Naval Station Mayport (Admiral David L. Mcdonald Field),Mayport,United States,30.39109993,-81.42469788,15
+11846,OGB,Orangeburg Municipal Airport,Orangeburg,United States,33.456798553467,-80.859497070312,195
+11847,OLU,Columbus Municipal Airport,Columbus,United States,41.44800186,-97.34259796,1447
+11848,OTM,Ottumwa Regional Airport,Ottumwa,United States,41.10660172,-92.44789886,845
+11849,OZR,Cairns AAF (Fort Rucker) Air Field,Fort Rucker/Ozark,United States,31.27569962,-85.71340179,301
+11850,PWY,Ralph Wenz Field,Pinedale,United States,42.79550171,-109.8069992,7102
+11851,POU,Dutchess County Airport,Poughkeepsie,United States,41.6265983581543,-73.88420104980469,165
+11852,RNH,New Richmond Regional Airport,New Richmond,United States,45.14830017,-92.5381012,998
+11853,RSL,Russell Municipal Airport,Russell,United States,38.872100830078004,-98.811798095703,1862
+11854,RWF,Redwood Falls Municipal Airport,Redwood Falls,United States,44.54719925,-95.08229828,1024
+11855,SNS,Salinas Municipal Airport,Salinas,United States,36.662799835205,-121.60600280761999,85
+11856,SOA,Sonora Municipal Airport,Sonora,United States,30.585699081420998,-100.6490020752,2140
+11857,SUZ,Saline County Regional Airport,Benton,United States,34.59059906,-92.47940063,390
+11858,TPH,Tonopah Airport,Tonopah,United States,38.06019974,-117.086998,5430
+11859,UAO,Aurora State Airport,Aurora,United States,45.24710083007813,-122.7699966430664,200
+11860,UKI,Ukiah Municipal Airport,Ukiah,United States,39.125999450684,-123.20099639893,614
+11861,UOX,University Oxford Airport,Oxford,United States,34.384300231934,-89.536796569824,452
+11862,HTV,Huntsville Regional Airport,Huntsville,United States,30.7469005585,-95.5871963501,363
+11863,VTN,Miller Field,Valentine,United States,42.85779953,-100.5479965,2596
+11864,WMC,Winnemucca Municipal Airport,Winnemucca,United States,40.8965988159,-117.805999756,4308
+11865,WWR,West Woodward Airport,Woodward,United States,36.438,-99.5226667,2189
+11866,XMR,Cape Canaveral AFS Skid Strip,Cocoa Beach,United States,28.4675998688,-80.56659698490002,10
+11867,\N,Homey (Area 51) Airport,Groom Lake,United States,37.23500061035156,-115.81099700927734,4462
+11868,ZZV,Zanesville Municipal Airport,Zanesville,United States,39.9444007874,-81.89209747310001,900
+11918,ENN,Nenana Municipal Airport,Nenana,United States,64.54730224609375,-149.07400512695312,362
+11919,WWA,Wasilla Airport,Wasilla,United States,61.5717010498,-149.539993286,354
